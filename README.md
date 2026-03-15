@@ -18,16 +18,7 @@ This repository is designed to be a single, interview-friendly learning and revi
 - Build a reusable portfolio of examples and mini-projects
 - Make revision fast before interviews
 
-## Suggested Usage
 
-For each topic folder, keep these four kinds of content:
-
-- `notes.md`: concept summaries in your own words
-- `code/`: small focused examples
-- `exercises.md`: practice questions or tasks
-- `interview.md`: interview-style Q&A
-
-You do not need to fill everything at once. Build gradually.
 
 ## Recommended Learning Flow
 
@@ -57,13 +48,6 @@ You do not need to fill everything at once. Build gradually.
 - `11_sandbox`: scratch area for experiments
 - `12_progress_tracking`: study plans and progress logs
 
-## Interview-Friendly Principles
-
-- Prefer concise notes over copied theory
-- Store one good example per concept before adding more
-- Add failure cases and tradeoffs, not just definitions
-- Keep “when to use / when not to use” notes for every model
-- Practice explaining topics in plain language
 
 ## Good File Pattern For Any Topic
 
@@ -78,14 +62,6 @@ Example:
   datasets/
 ```
 
-## Suggested First Milestones
 
-1. Complete Python fundamentals with examples
-2. Finish NumPy, Pandas, visualization, and SQL basics
-3. Cover ML workflow, supervised learning, metrics, and feature engineering
-4. Build 2 ML projects and 1 deep learning project
-5. Finish LLM foundations, embeddings, RAG, agents, and evals
-6. Build 1 GenAI portfolio project
-7. Consolidate interview questions and revision sheets
 
 See the detailed roadmap in [00_repo_guide/study_plan.md](/f:/Coding/Github%20Portfolio/PythonAIMLGenAIFull/00_repo_guide/study_plan.md).
