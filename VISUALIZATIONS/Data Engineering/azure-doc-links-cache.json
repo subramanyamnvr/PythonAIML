@@ -1,0 +1,1012 @@
+{
+  "AI Anomaly Detector": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=AI%20Anomaly%20Detector&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure AI Personalizer": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Azure%20AI%20Personalizer&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure AI Custom Vision": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure AI Bot Service": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Databricks": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure AI Video Indexer": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-video-indexer/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure AI Metrics Advisor": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/metrics-advisor/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure AI Search": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Content Understanding in Foundry Tools": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure AI Immersive Reader": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/immersive-reader/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Language in Foundry Tools": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/language-support",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Document Intelligence in Foundry Tools": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0&branch=release-build-cogserv-forms-recognizer",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Machine Learning": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Open Datasets": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Speech in Foundry Tools": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Translator in Foundry Tools": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/translator/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure SRE Agent": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Vision in Foundry Tools": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Data Science Virtual Machines": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Security Copilot": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Security%20Copilot&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Content Safety in Foundry Control Plane": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure OpenAI in Foundry Models": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Foundry Tools": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Foundry": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/foundry/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Health Bot": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Health%20Bot&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Observability in Foundry Control Plane": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Foundry Agent Service": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Planetary Computer Pro": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Foundry Models": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Foundry IQ": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/search/agentic-knowledge-source-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Analysis Services": {
+    "docs_url": "https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services/?view=sql-analysis-services-2025",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Chaos Studio": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Data Explorer": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Data Factory": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Fabric": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Fabric&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Data Lake Storage": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Purview": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Purview&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Power BI": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Power%20BI&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Data Share": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/data-share/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Phi open models": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Stream Analytics": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/stream-analytics/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Data Catalog": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Synapse Analytics": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Data Lake Analytics": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "HDInsight": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Event Hubs": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/event-hubs/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Graph Data Connect": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "App Service": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Power BI Embedded": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Compute Fleet": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Container Apps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Dedicated Host": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Kubernetes Service (AKS)": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Container Instances": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Functions": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-functions/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Spot Virtual Machines": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Virtual Desktop": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure VMware Solution": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure VM Image Builder": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Batch": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/batch/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Spring Apps": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-new-relic-monitor",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Quantum": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Cloud Services": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Static Web Apps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Linux Virtual Machines": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Nutanix Cloud Clusters": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "SQL Server on Azure Virtual Machines": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Virtual Machine Scale Sets": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Windows Server": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Virtual Machines": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "App Configuration": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Container Registry": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Red Hat OpenShift": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure confidential ledger": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Kubernetes Fleet Manager": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Cosmos DB": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Database for MySQL": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Database for PostgreSQL": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Container Storage": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/container-storage/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Database Migration Service": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/dms/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Managed Instance for Apache Cassandra": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/create-cluster-portal",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure DocumentDB": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure HorizonDB": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure SQL": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Managed Redis": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure SQL Database": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Table Storage": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Artifact Signing": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure SQL Managed Instance": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure App Testing": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Deployment Environments": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure DevTest Labs": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure DevOps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Pipelines": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Dev Box": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "SDKs": {
+    "docs_url": "https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Playwright Testing": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/playwright-testing/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Visual Studio": {
+    "docs_url": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Visual Studio Code": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Boards": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Artifacts": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Managed Grafana": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Repos": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Monitor": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Test Plans": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "GitHub Advanced Security": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "DevOps tool integrations": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "GitHub Advanced Security for Azure DevOps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "GitHub Copilot": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Github Enterprise": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Arc": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure ExpressRoute": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Entra External ID": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20External%20ID&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Local": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure IoT Edge": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-edge/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Entra ID (formerly Azure AD)": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20ID%20%28formerly%20Azure%20AD%29&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Microsoft Entra Verified ID": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20Verified%20ID&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Operator Nexus": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/operator-nexus/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Operator Service Manager": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/operator-service-manager/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Stack Hub": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Defender for Cloud": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Defender%20for%20Cloud&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Stack Edge": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Sentinel": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Sentinel&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "API Management": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Entra Domain Services": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Web PubSub": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Event Grid": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Health Data Services": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Logic Apps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Energy Data Services": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Digital Twins": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/digital-twins/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Service Bus": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure IoT Hub": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-hub/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure IoT Central": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-central/core/concepts-quotas-limits",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Maps": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure IoT Operations": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations#supported-regions",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Notification Hubs": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/notification-hubs/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Sphere": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure-sphere/?view=azure-sphere-integrated",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Windows for IoT": {
+    "docs_url": "https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/commercialization/licensing",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Automation": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Advisor": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/advisor/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Automanage": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/automanage/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Backup": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Managed Applications": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Blueprints": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Copilot": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Lighthouse": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Migrate": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent?view=migrate",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Network Watcher": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/network-watcher/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Policy": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Resource Manager templates": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Resource Manager": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Resource Mover": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/resource-mover/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Site Recovery": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Traffic Manager": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Defender External Attack Surface Management": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Cloud Shell": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cloud-shell/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Cost Management": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Data Box": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Update management center": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Communication Services": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Content Delivery Network": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Storage Mover": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy?tabs=xdmshell",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Application Gateway": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Content Delivery Network": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Bastion": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure DDoS Protection": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Firewall": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/firewall/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure DNS": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/dns/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure NAT Gateway": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Firewall Manager": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Front Door": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Load Balancer": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/load-balancer/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Network Function Manager": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/network-function-manager/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Information Protection": {
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Azure%20Information%20Protection&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  "Azure Route Server": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/route-server/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Private Link": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/private-link/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Virtual Network": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-network/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure VPN Gateway": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure App Configuration": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Cloud HSM": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Virtual Network Manager": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-network-manager/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Virtual WAN": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Web Application Firewall": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Key Vault": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Azure Attestation": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Microsoft Defender External Attack Surface Management": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Archive Storage": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Disk Storage": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Files": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Elastic SAN": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/elastic-san/elastic-san-introduction",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure NetApp Files": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Managed Lustre": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-managed-lustre/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Storage Discovery": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Storage Actions": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Blob Storage": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Queue Storage": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-dotnet?tabs=dotnet",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Storage Explorer": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Storage Accounts": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Lab Services": {
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure SignalR Service": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  "Azure Fluid Relay": {
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-fluid-relay/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  }
+}

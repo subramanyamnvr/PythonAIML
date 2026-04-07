@@ -1,0 +1,2708 @@
+[
+  {
+    "name": "AI Anomaly Detector",
+    "slug": "ai-anomaly-detector",
+    "description": "Easily add anomaly detection capabilities to your apps.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-anomaly-detector/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=AI%20Anomaly%20Detector&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Azure AI Bot Service",
+    "slug": "azure-ai-bot-service",
+    "description": "Create bots and connect them across channels.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-bot-service/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure AI Custom Vision",
+    "slug": "azure-ai-custom-vision",
+    "description": "Easily customize your own state-of-the-art computer vision models for your unique use case.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure AI Immersive Reader",
+    "slug": "azure-ai-immersive-reader",
+    "description": "Empower users of all ages and abilities to read and comprehend text.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-immersive-reader/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/immersive-reader/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure AI Metrics Advisor",
+    "slug": "azure-ai-metrics-advisor",
+    "description": "An AI service that monitors metrics and diagnoses issues.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-metrics-advisor/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/metrics-advisor/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure AI Personalizer",
+    "slug": "azure-ai-personalizer",
+    "description": "Deliver personalized, relevant experiences for each of your users.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-personalizer/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Azure%20AI%20Personalizer&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Azure AI Search",
+    "slug": "azure-ai-search",
+    "description": "Connect agents to one unified context layer for data sources, memory and retrieval-augmented generation (RAG) pipelines.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
+    "categories": [
+      "AI + machine learning",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure AI Video Indexer",
+    "slug": "azure-ai-video-indexer",
+    "description": "Easily extract meaningful insights from audio and video files using media AI.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-video-indexer/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-video-indexer/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Content Understanding in Foundry Tools",
+    "slug": "azure-content-understanding-in-foundry-tools",
+    "description": "Accelerate multimodal AI agent development.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/content-understanding",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Databricks",
+    "slug": "azure-databricks",
+    "description": "Design AI with Apache Spark-based analytics.",
+    "product_url": "https://azure.microsoft.com/en-us/products/databricks/",
+    "categories": [
+      "AI + machine learning",
+      "Analytics"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Document Intelligence in Foundry Tools",
+    "slug": "azure-document-intelligence-in-foundry-tools",
+    "description": "Accelerate information extraction from documents.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/document-intelligence",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0&branch=release-build-cogserv-forms-recognizer",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Language in Foundry Tools",
+    "slug": "azure-language-in-foundry-tools",
+    "description": "Build apps that understand, analyze, and generate human language with AI.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/language",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/language-support",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Machine Learning",
+    "slug": "azure-machine-learning",
+    "description": "Use an enterprise-grade service for the end-to-end machine learning lifecycle.",
+    "product_url": "https://azure.microsoft.com/en-us/products/machine-learning/",
+    "categories": [
+      "AI + machine learning",
+      "Internet of Things"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Open Datasets",
+    "slug": "azure-open-datasets",
+    "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models.",
+    "product_url": "https://azure.microsoft.com/en-us/products/open-datasets/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure OpenAI in Foundry Models",
+    "slug": "azure-openai-in-foundry-models",
+    "description": "Apply advanced coding and language models to a variety of use cases.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/openai-service/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Speech in Foundry Tools",
+    "slug": "azure-speech-in-foundry-tools",
+    "description": "Energize your apps and agents with prebuilt, customizable, multilingual speech AI models.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/speech/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure SRE Agent",
+    "slug": "azure-sre-agent",
+    "description": "Automate repetitive tasks and improve incident response using an autonomous incident mitigation and resource optimization agent with intelligent precision.",
+    "product_url": "https://azure.microsoft.com/en-us/products/sre-agent",
+    "categories": [
+      "AI + machine learning",
+      "DevOps",
+      "Management and governance"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Translator in Foundry Tools",
+    "slug": "azure-translator-in-foundry-tools",
+    "description": "Break language barriers with instant, AI-powered translation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/translator",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/translator/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Vision in Foundry Tools",
+    "slug": "azure-vision-in-foundry-tools",
+    "description": "Discover vision AI from image and video analysis.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/vision",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Content Safety in Foundry Control Plane",
+    "slug": "content-safety-in-foundry-control-plane",
+    "description": "Automated image, text, and video moderation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Data Science Virtual Machines",
+    "slug": "data-science-virtual-machines",
+    "description": "Rich pre-configured environment for AI development.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines/data-science-virtual-machines/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Foundry Agent Service",
+    "slug": "foundry-agent-service",
+    "description": "Create AI agents that automate complex business processescompleting specific tasks while keeping humans in control.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-agent-service/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Foundry IQ",
+    "slug": "foundry-iq",
+    "description": "Unlock ubiquitous knowledge for agents. Deliver superior results with AI agents grounded on organizational data.",
+    "product_url": "https://azure.microsoft.com/en-us/products/foundry/iq",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/search/agentic-knowledge-source-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Foundry Models",
+    "slug": "foundry-models",
+    "description": "Empowering you to find the best model for every use case.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-model-catalog",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Foundry Tools",
+    "slug": "foundry-tools",
+    "description": "Build cutting-edge, market-ready AI applications with customizable tools, APIs, and models.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/tools/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Health Bot",
+    "slug": "health-bot",
+    "description": "A managed service purpose-built for development of virtual healthcare assistants.",
+    "product_url": "https://azure.microsoft.com/en-us/products/bot-services/health-bot/",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Health%20Bot&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Foundry",
+    "slug": "microsoft-foundry",
+    "description": "The AI app and agent factory.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/foundry/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Planetary Computer Pro",
+    "slug": "microsoft-planetary-computer-pro",
+    "description": "Unify geospatial data with enterprise AI and analytics to enhance business decisions.",
+    "product_url": "https://azure.microsoft.com/en-us/products/planetary-computer-pro",
+    "categories": [
+      "AI + machine learning",
+      "Analytics"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Security Copilot",
+    "slug": "microsoft-security-copilot",
+    "description": "Protect at the speed and scale of AI with a generative AI-powered assistant.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot",
+    "categories": [
+      "AI + machine learning",
+      "Security"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Security%20Copilot&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Observability in Foundry Control Plane",
+    "slug": "observability-in-foundry-control-plane",
+    "description": "Observe and optimize AI apps and agents with end-to-end monitoring, tracing, and evaluation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ai-foundry/observability",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Phi open models",
+    "slug": "phi-open-models",
+    "description": "A family of powerful, small language models (SLMs) with groundbreaking performance at low cost and low latency.",
+    "product_url": "https://azure.microsoft.com/en-us/products/phi-3",
+    "categories": [
+      "AI + machine learning"
+    ],
+    "primary_category": "AI + machine learning",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Analysis Services",
+    "slug": "azure-analysis-services",
+    "description": "Enterprise-grade analytics engine as a service.",
+    "product_url": "https://azure.microsoft.com/en-us/products/analysis-services/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/analysis-services/azure-analysis-services/?view=sql-analysis-services-2025",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Chaos Studio",
+    "slug": "azure-chaos-studio",
+    "description": "Improve application resilience by simulating outages and other disruptions through fault injection.",
+    "product_url": "https://azure.microsoft.com/en-us/products/chaos-studio/",
+    "categories": [
+      "Analytics",
+      "Management and governance"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Data Explorer",
+    "slug": "azure-data-explorer",
+    "description": "Fast and highly scalable data exploration service.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-explorer/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Data Factory",
+    "slug": "azure-data-factory",
+    "description": "Hybrid data integration at enterprise scale, made easy.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-factory/",
+    "categories": [
+      "Analytics",
+      "Databases"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Data Lake Storage",
+    "slug": "azure-data-lake-storage",
+    "description": "Scalable, secure data lake for high-performance analytics.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/data-lake-storage/",
+    "categories": [
+      "Analytics",
+      "Storage"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Data Share",
+    "slug": "azure-data-share",
+    "description": "A simple and safe service for sharing big data with external organizations.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-share/",
+    "categories": [
+      "Analytics",
+      "Storage"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/data-share/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Stream Analytics",
+    "slug": "azure-stream-analytics",
+    "description": "Real-time analytics on fast-moving streaming data.",
+    "product_url": "https://azure.microsoft.com/en-us/products/stream-analytics/",
+    "categories": [
+      "Analytics",
+      "Internet of Things"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/stream-analytics/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Synapse Analytics",
+    "slug": "azure-synapse-analytics",
+    "description": "Limitless analytics with unmatched time to insight.",
+    "product_url": "https://azure.microsoft.com/en-us/products/synapse-analytics/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Data Catalog",
+    "slug": "data-catalog",
+    "description": "Get more value from your enterprise data assets.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-catalog/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Data Lake Analytics",
+    "slug": "data-lake-analytics",
+    "description": "Distributed analytics service that makes big data easy.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-lake-analytics/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Event Hubs",
+    "slug": "event-hubs",
+    "description": "Receive telemetry from millions of devices.",
+    "product_url": "https://azure.microsoft.com/en-us/products/event-hubs/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/event-hubs/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "HDInsight",
+    "slug": "hdinsight",
+    "description": "Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters.",
+    "product_url": "https://azure.microsoft.com/en-us/products/hdinsight/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Fabric",
+    "slug": "microsoft-fabric",
+    "description": "Reshape how everyone accesses, manages, and acts on data and insights by connecting every data source and analytics service togetheron a single, AI-powered platform.",
+    "product_url": "https://www.microsoft.com/en-us/microsoft-fabric",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Fabric&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Graph Data Connect",
+    "slug": "microsoft-graph-data-connect",
+    "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant.",
+    "product_url": "https://azure.microsoft.com/en-us/products/graph-data-connect/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Purview",
+    "slug": "microsoft-purview",
+    "description": "Govern, protect, and manage your data estate.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-data-governance",
+    "categories": [
+      "Analytics",
+      "Management and governance"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Purview&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Power BI",
+    "slug": "power-bi",
+    "description": "Transform your data into interactive, shareable insights with AI-powered dashboards and reports.",
+    "product_url": "https://www.microsoft.com/en-us/power-platform/products/power-bi/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Power%20BI&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Power BI Embedded",
+    "slug": "power-bi-embedded",
+    "description": "White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.",
+    "product_url": "https://azure.microsoft.com/en-us/products/power-bi-embedded/",
+    "categories": [
+      "Analytics"
+    ],
+    "primary_category": "Analytics",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "App Service",
+    "slug": "app-service",
+    "description": "Quickly create powerful cloud apps for web and mobile.",
+    "product_url": "https://azure.microsoft.com/en-us/products/app-service/",
+    "categories": [
+      "Compute",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Compute Fleet",
+    "slug": "azure-compute-fleet",
+    "description": "Easily provision and manage Azure compute capacity at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/compute-fleet",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Container Apps",
+    "slug": "azure-container-apps",
+    "description": "Build and deploy modern apps and microservices using serverless containers.",
+    "product_url": "https://azure.microsoft.com/en-us/products/container-apps/",
+    "categories": [
+      "Compute",
+      "Containers",
+      "Web"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Container Instances",
+    "slug": "azure-container-instances",
+    "description": "Launch containers with hypervisor isolation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/container-instances/",
+    "categories": [
+      "Compute",
+      "Containers"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Dedicated Host",
+    "slug": "azure-dedicated-host",
+    "description": "A dedicated physical server to host your Azure VMs for Windows and Linux.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines/dedicated-host/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Functions",
+    "slug": "azure-functions",
+    "description": "Execute event-driven serverless code functions with an end-to-end development experience.",
+    "product_url": "https://azure.microsoft.com/en-us/products/functions/",
+    "categories": [
+      "Compute",
+      "Containers",
+      "Internet of Things"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-functions/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Kubernetes Service (AKS)",
+    "slug": "azure-kubernetes-service-aks",
+    "description": "Deploy and scale containers on managed Kubernetes.",
+    "product_url": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
+    "categories": [
+      "Compute",
+      "Containers"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Quantum",
+    "slug": "azure-quantum",
+    "description": "Jump in and explore a diverse selection of today's quantum hardware, software, and solutions.",
+    "product_url": "https://azure.microsoft.com/en-us/products/quantum/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Spot Virtual Machines",
+    "slug": "azure-spot-virtual-machines",
+    "description": "Provision unused compute capacity at deep discounts to run interruptible workloads.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines/spot/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Spring Apps",
+    "slug": "azure-spring-apps",
+    "description": "Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware.",
+    "product_url": "https://azure.microsoft.com/en-us/products/spring-apps/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-new-relic-monitor",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Virtual Desktop",
+    "slug": "azure-virtual-desktop",
+    "description": "Enable a secure, remote desktop experience from anywhere.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-desktop/",
+    "categories": [
+      "Compute",
+      "Virtual desktop infrastructure"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure VM Image Builder",
+    "slug": "azure-vm-image-builder",
+    "description": "Simplify your image building process with easy to use tool.",
+    "product_url": "https://azure.microsoft.com/en-us/products/image-builder/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure VMware Solution",
+    "slug": "azure-vmware-solution",
+    "description": "Run your VMware workloads natively on Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-vmware/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Batch",
+    "slug": "batch",
+    "description": "Cloud-scale job scheduling and compute management.",
+    "product_url": "https://azure.microsoft.com/en-us/products/batch/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/batch/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Cloud Services",
+    "slug": "cloud-services",
+    "description": "Create highly-available, infinitely-scalable cloud applications and APIs.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cloud-services/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Linux Virtual Machines",
+    "slug": "linux-virtual-machines",
+    "description": "Provision virtual machines for Ubuntu, Red Hat, and more.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines/linux/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Nutanix Cloud Clusters",
+    "slug": "nutanix-cloud-clusters",
+    "description": "Optimize costs and simplify scale, flexibility, app migration, and disaster recovery for your Nutanix workloads.",
+    "product_url": "https://azure.microsoft.com/en-us/products/nutanix",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "SQL Server on Azure Virtual Machines",
+    "slug": "sql-server-on-azure-virtual-machines",
+    "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/",
+    "categories": [
+      "Compute",
+      "Databases"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Static Web Apps",
+    "slug": "static-web-apps",
+    "description": "Streamlined full-stack development from source code to global high availability.",
+    "product_url": "https://azure.microsoft.com/en-us/products/app-service/static/",
+    "categories": [
+      "Compute",
+      "Web"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Virtual Machine Scale Sets",
+    "slug": "virtual-machine-scale-sets",
+    "description": "Manage and scale up to thousands of Linux and Windows VMs.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machine-scale-sets/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Virtual Machines",
+    "slug": "virtual-machines",
+    "description": "Provision Windows and Linux VMs in seconds.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-machines",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Windows Server",
+    "slug": "windows-server",
+    "description": "Trusted cloud platform for your Windows Server workloads",
+    "product_url": "https://azure.microsoft.com/en-us/products/windows-server/",
+    "categories": [
+      "Compute"
+    ],
+    "primary_category": "Compute",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "App Configuration",
+    "slug": "app-configuration",
+    "description": "Fast, scalable parameter storage for app configuration.",
+    "product_url": "https://azure.microsoft.com/en-us/products/app-configuration/",
+    "categories": [
+      "Containers",
+      "Developer tools",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Containers",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Container Registry",
+    "slug": "azure-container-registry",
+    "description": "Build, store, secure, and replicate container images and artifacts.",
+    "product_url": "https://azure.microsoft.com/en-us/products/container-registry/",
+    "categories": [
+      "Containers"
+    ],
+    "primary_category": "Containers",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Container Storage",
+    "slug": "azure-container-storage",
+    "description": "Manage persistent volumes for stateful container applications.",
+    "product_url": "https://azure.microsoft.com/en-us/products/container-storage/",
+    "categories": [
+      "Containers",
+      "Storage"
+    ],
+    "primary_category": "Containers",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/container-storage/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Kubernetes Fleet Manager",
+    "slug": "azure-kubernetes-fleet-manager",
+    "description": "Seamlessly manage Kubernetes clusters at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/kubernetes-fleet-manager/",
+    "categories": [
+      "Containers"
+    ],
+    "primary_category": "Containers",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Red Hat OpenShift",
+    "slug": "azure-red-hat-openshift",
+    "description": "Deploy and scale containers on managed Red Hat OpenShift.",
+    "product_url": "https://azure.microsoft.com/en-us/products/openshift/",
+    "categories": [
+      "Containers"
+    ],
+    "primary_category": "Containers",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure confidential ledger",
+    "slug": "azure-confidential-ledger",
+    "description": "Protect data witha tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-confidential-ledger/",
+    "categories": [
+      "Databases",
+      "Security",
+      "Storage"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "slug": "azure-cosmos-db",
+    "description": "Build or modernize scalable, high-performance apps.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cosmos-db/",
+    "categories": [
+      "Databases",
+      "Internet of Things"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Database for MySQL",
+    "slug": "azure-database-for-mysql",
+    "description": "Modernizewith a fully managed, scalable MySQL database.",
+    "product_url": "https://azure.microsoft.com/en-us/products/mysql/",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Database for PostgreSQL",
+    "slug": "azure-database-for-postgresql",
+    "description": "Innovate with a fully managed, intelligent, and scalable PostgreSQL database.",
+    "product_url": "https://azure.microsoft.com/en-us/products/postgresql/",
+    "categories": [
+      "Databases",
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Database Migration Service",
+    "slug": "azure-database-migration-service",
+    "description": "Simplify your data migration to Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/database-migration/",
+    "categories": [
+      "Databases",
+      "Migration"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/dms/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure DocumentDB",
+    "slug": "azure-documentdb",
+    "description": "Build AI-driven apps and standardize on an open-source, MongoDB-compatible engine.",
+    "product_url": "https://azure.microsoft.com/en-us/products/documentdb",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure HorizonDB",
+    "slug": "azure-horizondb",
+    "description": "Build and scale mission-critical applications on a new PostgreSQL cloud database service engineered for performance.",
+    "product_url": "https://azure.microsoft.com/en-us/products/horizondb",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Managed Instance for Apache Cassandra",
+    "slug": "azure-managed-instance-for-apache-cassandra",
+    "description": "Modernize Cassandra data clusters with a managed instance in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/managed-instance-apache-cassandra/",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/create-cluster-portal",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Managed Redis",
+    "slug": "azure-managed-redis",
+    "description": "Take advantage of a fully managed, in-memory database with the latest Redis innovations.",
+    "product_url": "https://azure.microsoft.com/en-us/products/managed-redis",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure SQL",
+    "slug": "azure-sql",
+    "description": "Migrate, modernize, and innovate on the modern SQL family of cloud databases.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-sql/",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure SQL Database",
+    "slug": "azure-sql-database",
+    "description": "Build apps that scale withamanaged and intelligent SQL database in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-sql/database/",
+    "categories": [
+      "Databases",
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure SQL Managed Instance",
+    "slug": "azure-sql-managed-instance",
+    "description": "Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Table Storage",
+    "slug": "table-storage",
+    "description": "Get a NoSQL key-value store using semi-structured datasets.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/tables/",
+    "categories": [
+      "Databases"
+    ],
+    "primary_category": "Databases",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Artifact Signing",
+    "slug": "artifact-signing",
+    "description": "Secure your applications with a fully managed end-to-end signing service for code, documents, applications, and more.",
+    "product_url": "https://azure.microsoft.com/en-us/products/artifact-signing",
+    "categories": [
+      "Developer tools"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure App Testing",
+    "slug": "azure-app-testing",
+    "description": "Optimize app performance with high-scale load testing.",
+    "product_url": "https://azure.microsoft.com/en-us/products/app-testing/",
+    "categories": [
+      "Developer tools",
+      "DevOps"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Deployment Environments",
+    "slug": "azure-deployment-environments",
+    "description": "Quickly spin up app infrastructure environments with project-based templates.",
+    "product_url": "https://azure.microsoft.com/en-us/products/deployment-environments/",
+    "categories": [
+      "Developer tools",
+      "DevOps"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure DevOps",
+    "slug": "azure-devops",
+    "description": "Services for teams to share code, track work, and ship software.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/",
+    "categories": [
+      "Developer tools",
+      "DevOps",
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure DevTest Labs",
+    "slug": "azure-devtest-labs",
+    "description": "Quickly create environments using reusable templates and artifacts.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devtest-lab/",
+    "categories": [
+      "Developer tools",
+      "DevOps"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Pipelines",
+    "slug": "azure-pipelines",
+    "description": "Continuously build, test, and deploy to any platform and cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/pipelines/",
+    "categories": [
+      "Developer tools",
+      "DevOps"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Dev Box",
+    "slug": "microsoft-dev-box",
+    "description": "Streamline development with secure, ready-to-code workstations in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/dev-box/",
+    "categories": [
+      "Developer tools",
+      "DevOps",
+      "Virtual desktop infrastructure"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Playwright Testing",
+    "slug": "microsoft-playwright-testing",
+    "description": "Scalable end-to-end modern web app testing service.",
+    "product_url": "https://azure.microsoft.com/en-us/products/playwright-testing/",
+    "categories": [
+      "Developer tools",
+      "DevOps",
+      "Web"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/playwright-testing/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "SDKs",
+    "slug": "sdks",
+    "description": "Get the SDKs and command-line tools you need.",
+    "product_url": "https://azure.microsoft.com/en-us/downloads/",
+    "categories": [
+      "Developer tools"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Visual Studio",
+    "slug": "visual-studio",
+    "description": "Powerful and flexible environment to develop apps in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/visual-studio/",
+    "categories": [
+      "Developer tools"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Visual Studio Code",
+    "slug": "visual-studio-code",
+    "description": "A powerful, lightweight code editor for cloud development.",
+    "product_url": "https://azure.microsoft.com/en-us/products/visual-studio-code/",
+    "categories": [
+      "Developer tools"
+    ],
+    "primary_category": "Developer tools",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Artifacts",
+    "slug": "azure-artifacts",
+    "description": "Create, host, and share packages with your team.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/artifacts/",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Boards",
+    "slug": "azure-boards",
+    "description": "Plan, track, and discuss work across your teams.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/boards/",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Managed Grafana",
+    "slug": "azure-managed-grafana",
+    "description": "Deploy Grafana dashboards as a fully managed Azure service.",
+    "product_url": "https://azure.microsoft.com/en-us/products/managed-grafana/",
+    "categories": [
+      "DevOps",
+      "Management and governance"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Monitor",
+    "slug": "azure-monitor",
+    "description": "Full observability into your applications, infrastructure, and network.",
+    "product_url": "https://azure.microsoft.com/en-us/products/monitor/",
+    "categories": [
+      "DevOps",
+      "Management and governance"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Repos",
+    "slug": "azure-repos",
+    "description": "Get unlimited, cloud-hosted private Git repos for your project.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/repos/",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Test Plans",
+    "slug": "azure-test-plans",
+    "description": "Test and ship confidently with an exploratory test toolkit.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/test-plans/",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "DevOps tool integrations",
+    "slug": "devops-tool-integrations",
+    "description": "Use your favorite DevOps tools with Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "GitHub Advanced Security",
+    "slug": "github-advanced-security",
+    "description": "Empower your developersto work better together, fix security issues faster, and reduce overall security risk.",
+    "product_url": "https://azure.microsoft.com/en-us/products/github/Advanced-Security",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "GitHub Advanced Security for Azure DevOps",
+    "slug": "github-advanced-security-for-azure-devops",
+    "description": "Develop securely from inception to ship.",
+    "product_url": "https://azure.microsoft.com/en-us/products/devops/github-advanced-security",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "GitHub Copilot",
+    "slug": "github-copilot",
+    "description": "Increase softwaredevelopment velocityand inspire continuous innovationwithGitHubCopilot, the worlds most widely adopted AI developer tool.",
+    "product_url": "https://azure.microsoft.com/en-us/products/github/Copilot",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Github Enterprise",
+    "slug": "github-enterprise",
+    "description": "Unlock innovation at scale withGitHubEnterpriseandMicrosoftAzure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/github",
+    "categories": [
+      "DevOps"
+    ],
+    "primary_category": "DevOps",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Arc",
+    "slug": "azure-arc",
+    "description": "Secure, develop, and operate infrastructure, apps, and Azure services anywhere.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-arc/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure ExpressRoute",
+    "slug": "azure-expressroute",
+    "description": "Experience a fast, reliable, and private connection to Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/expressroute/",
+    "categories": [
+      "Hybrid + multicloud",
+      "Networking"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure IoT Edge",
+    "slug": "azure-iot-edge",
+    "description": "Extend cloud intelligence and analytics to edge devices.",
+    "product_url": "https://azure.microsoft.com/en-us/products/iot-edge/",
+    "categories": [
+      "Hybrid + multicloud",
+      "Internet of Things"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-edge/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Local",
+    "slug": "azure-local",
+    "description": "Run your production workloads anywhere on a cloud connected distributed infrastructure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/local/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Operator Nexus",
+    "slug": "azure-operator-nexus",
+    "description": "Discover a hybrid platform built for mission-critical mobile network applications and can support deployment of both containerized and virtualized network functions.",
+    "product_url": "https://azure.microsoft.com/en-us/products/operator-nexus/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/operator-nexus/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Operator Service Manager",
+    "slug": "azure-operator-service-manager",
+    "description": "Simplify the deployment, upgrade, and management of complex operator services.",
+    "product_url": "https://azure.microsoft.com/en-us/products/operator-service-manager/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/operator-service-manager/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Stack Edge",
+    "slug": "azure-stack-edge",
+    "description": "An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-stack/edge/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Stack Hub",
+    "slug": "azure-stack-hub",
+    "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-stack/hub/",
+    "categories": [
+      "Hybrid + multicloud"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Defender for Cloud",
+    "slug": "microsoft-defender-for-cloud",
+    "description": "Extend threat protection to any infrastructure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/defender-for-cloud/",
+    "categories": [
+      "Hybrid + multicloud",
+      "Security"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Defender%20for%20Cloud&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Sentinel",
+    "slug": "microsoft-sentinel",
+    "description": "Cloud-native SIEM and intelligent security analytics.",
+    "product_url": "https://azure.microsoft.com/en-us/products/microsoft-sentinel/",
+    "categories": [
+      "Hybrid + multicloud",
+      "Security"
+    ],
+    "primary_category": "Hybrid + multicloud",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Sentinel&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Entra Domain Services",
+    "slug": "microsoft-entra-domain-services",
+    "description": "Manage your domain controllers in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/microsoft-entra-ds",
+    "categories": [
+      "Identity",
+      "Security"
+    ],
+    "primary_category": "Identity",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Entra External ID",
+    "slug": "microsoft-entra-external-id",
+    "description": "Personalize and help secure access to any application for customers and partners.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id",
+    "categories": [
+      "Identity"
+    ],
+    "primary_category": "Identity",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20External%20ID&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Entra ID (formerly Azure AD)",
+    "slug": "microsoft-entra-id-formerly-azure-ad",
+    "description": "Synchronize on-premises directories and enable single sign-on.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id",
+    "categories": [
+      "Identity"
+    ],
+    "primary_category": "Identity",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20ID%20%28formerly%20Azure%20AD%29&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Microsoft Entra Verified ID",
+    "slug": "microsoft-entra-verified-id",
+    "description": "Build unique user-owned identity scenarios designed for trustworthy, secure, and efficient interactions between people and organizations.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id",
+    "categories": [
+      "Identity"
+    ],
+    "primary_category": "Identity",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Microsoft%20Entra%20Verified%20ID&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "API Management",
+    "slug": "api-management",
+    "description": "Publish APIs to developers, partners, and employees securely and at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/api-management/",
+    "categories": [
+      "Integration",
+      "Internet of Things",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Health Data Services",
+    "slug": "azure-health-data-services",
+    "description": "Unify and manage health data and protected health information (PHI) in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/health-data-services/",
+    "categories": [
+      "Integration"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/healthcare-apis/azure-api-for-fhir/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Web PubSub",
+    "slug": "azure-web-pubsub",
+    "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern.",
+    "product_url": "https://azure.microsoft.com/en-us/products/web-pubsub/",
+    "categories": [
+      "Integration",
+      "Web"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Event Grid",
+    "slug": "event-grid",
+    "description": "Reliable event delivery at massive scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/event-grid/",
+    "categories": [
+      "Integration",
+      "Internet of Things"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Logic Apps",
+    "slug": "logic-apps",
+    "description": "Automate the access and use of data across clouds.",
+    "product_url": "https://azure.microsoft.com/en-us/products/logic-apps/",
+    "categories": [
+      "Integration",
+      "Internet of Things"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Energy Data Services",
+    "slug": "microsoft-energy-data-services",
+    "description": "Accelerate your journey to energy data modernization and digital transformation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/data-manager-for-energy",
+    "categories": [
+      "Integration"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Service Bus",
+    "slug": "service-bus",
+    "description": "Connect across private and public cloud environments.",
+    "product_url": "https://azure.microsoft.com/en-us/products/service-bus/",
+    "categories": [
+      "Integration"
+    ],
+    "primary_category": "Integration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Digital Twins",
+    "slug": "azure-digital-twins",
+    "description": "Use IoT spatial intelligence to create models of physical environments.",
+    "product_url": "https://azure.microsoft.com/en-us/products/digital-twins/",
+    "categories": [
+      "Internet of Things",
+      "Mixed reality"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/digital-twins/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure IoT Central",
+    "slug": "azure-iot-central",
+    "description": "Go from proof of concept to proof of value.",
+    "product_url": "https://azure.microsoft.com/en-us/products/iot-central/",
+    "categories": [
+      "Internet of Things"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-central/core/concepts-quotas-limits",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure IoT Hub",
+    "slug": "azure-iot-hub",
+    "description": "Connect, monitor, and manage billions of IoT assets.",
+    "product_url": "https://azure.microsoft.com/en-us/products/iot-hub/",
+    "categories": [
+      "Internet of Things"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-hub/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure IoT Operations",
+    "slug": "azure-iot-operations",
+    "description": "Unlock insights for intelligent local actions and global visibility. Enabled by Azure Arc.",
+    "product_url": "https://azure.microsoft.com/en-us/products/iot-operations",
+    "categories": [
+      "Internet of Things"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/iot-operations/overview-iot-operations#supported-regions",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Maps",
+    "slug": "azure-maps",
+    "description": "Add location data and mapping visuals to business applications and solutions.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-maps/",
+    "categories": [
+      "Internet of Things",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Sphere",
+    "slug": "azure-sphere",
+    "description": "Create, connect, and maintain secured intelligent IoT devices from the edge to the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-sphere/",
+    "categories": [
+      "Internet of Things"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure-sphere/?view=azure-sphere-integrated",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Notification Hubs",
+    "slug": "notification-hubs",
+    "description": "Send push notifications to any platform from any back end.",
+    "product_url": "https://azure.microsoft.com/en-us/products/notification-hubs/",
+    "categories": [
+      "Internet of Things",
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/notification-hubs/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Windows for IoT",
+    "slug": "windows-for-iot",
+    "description": "Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.",
+    "product_url": "https://azure.microsoft.com/en-us/products/windows-iot/",
+    "categories": [
+      "Internet of Things"
+    ],
+    "primary_category": "Internet of Things",
+    "docs_url": "https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/commercialization/licensing",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Automation",
+    "slug": "automation",
+    "description": "Simplify cloud management with process automation.",
+    "product_url": "https://azure.microsoft.com/en-us/products/automation/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Advisor",
+    "slug": "azure-advisor",
+    "description": "Your personalized Azure best practices recommendation engine.",
+    "product_url": "https://azure.microsoft.com/en-us/products/advisor/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/advisor/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Automanage",
+    "slug": "azure-automanage",
+    "description": "Effortless automation of cloud and on-premises infrastructure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-automanage/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/automanage/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Backup",
+    "slug": "azure-backup",
+    "description": "Simplify data protection with built-in backup management at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/backup/",
+    "categories": [
+      "Management and governance",
+      "Storage"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Blueprints",
+    "slug": "azure-blueprints",
+    "description": "Enabling quick, repeatable creation of governed environments.",
+    "product_url": "https://azure.microsoft.com/en-us/products/blueprints/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Copilot",
+    "slug": "azure-copilot",
+    "description": "Harness the collective intelligence of Azure agents with an AI companion.",
+    "product_url": "https://azure.microsoft.com/en-us/products/copilot",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Lighthouse",
+    "slug": "azure-lighthouse",
+    "description": "Empowering service providers to manage customers at scale and with precision.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-lighthouse/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Managed Applications",
+    "slug": "azure-managed-applications",
+    "description": "Simplify management of cloud offerings.",
+    "product_url": "https://azure.microsoft.com/en-us/products/managed-applications/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Migrate",
+    "slug": "azure-migrate",
+    "description": "Simplify migration and modernization with a unified platform.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-migrate/",
+    "categories": [
+      "Management and governance",
+      "Migration"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/migrate/azure-copilot-migration-agent?view=migrate",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Network Watcher",
+    "slug": "azure-network-watcher",
+    "description": "Network performance monitoring and diagnostics solution.",
+    "product_url": "https://azure.microsoft.com/en-us/products/network-watcher/",
+    "categories": [
+      "Management and governance",
+      "Networking"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/network-watcher/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Policy",
+    "slug": "azure-policy",
+    "description": "Implement corporate governance and standards at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-policy/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Resource Manager",
+    "slug": "azure-resource-manager",
+    "description": "Simplify how you manage your app resources.",
+    "product_url": "https://azure.microsoft.com/en-us/get-started/azure-portal/resource-manager/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Resource Manager templates",
+    "slug": "azure-resource-manager-templates",
+    "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager.",
+    "product_url": "https://azure.microsoft.com/en-us/products/arm-templates/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Resource Mover",
+    "slug": "azure-resource-mover",
+    "description": "Simplify how you move multiple resources between Azure regions.",
+    "product_url": "https://azure.microsoft.com/en-us/products/resource-mover/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/resource-mover/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Site Recovery",
+    "slug": "azure-site-recovery",
+    "description": "Keep your business running with built-in disaster recovery service.",
+    "product_url": "https://azure.microsoft.com/en-us/products/site-recovery/",
+    "categories": [
+      "Management and governance",
+      "Migration"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Traffic Manager",
+    "slug": "azure-traffic-manager",
+    "description": "Route incoming traffic for high performance and availability.",
+    "product_url": "https://azure.microsoft.com/en-us/products/traffic-manager/",
+    "categories": [
+      "Management and governance",
+      "Networking"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Cloud Shell",
+    "slug": "cloud-shell",
+    "description": "Streamline Azure administration with a browser-based shell.",
+    "product_url": "https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cloud-shell/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Defender External Attack Surface Management",
+    "slug": "defender-external-attack-surface-management",
+    "description": "Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM).",
+    "product_url": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Cost Management",
+    "slug": "microsoft-cost-management",
+    "description": "Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cost-management/",
+    "categories": [
+      "Management and governance",
+      "Migration"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Update management center",
+    "slug": "update-management-center",
+    "description": "Centrally manage updates and compliance at scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-update-management-center/",
+    "categories": [
+      "Management and governance"
+    ],
+    "primary_category": "Management and governance",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Content Delivery Network",
+    "slug": "content-delivery-network",
+    "description": "Fast, reliable content delivery network with global reach.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cdn/",
+    "categories": [
+      "Media"
+    ],
+    "primary_category": "Media",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Data Box",
+    "slug": "azure-data-box",
+    "description": "Accelerate offline data migration to Azure with Azure Data Box. Move massive datasets fast, without network bandwidth.",
+    "product_url": "https://azure.microsoft.com/en-us/products/databox/",
+    "categories": [
+      "Migration",
+      "Storage"
+    ],
+    "primary_category": "Migration",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Storage Mover",
+    "slug": "azure-storage-mover",
+    "description": "Explore Azure Storage Mover to migrate data to Azure from on-premises or another cloud. Simplify migration with safe, scalable transfers built for modernization.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage-mover",
+    "categories": [
+      "Migration"
+    ],
+    "primary_category": "Migration",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage-mover/agent-deploy?tabs=xdmshell",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Communication Services",
+    "slug": "azure-communication-services",
+    "description": "Build multichannel communication experiences.",
+    "product_url": "https://azure.microsoft.com/en-us/products/communication-services/",
+    "categories": [
+      "Mobile",
+      "Web"
+    ],
+    "primary_category": "Mobile",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Application Gateway",
+    "slug": "azure-application-gateway",
+    "description": "Build secure, scalable, highly available web front ends in Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/application-gateway",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Bastion",
+    "slug": "azure-bastion",
+    "description": "Fully managed service that helps secure remote access to your virtual machines.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-bastion/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Content Delivery Network",
+    "slug": "azure-content-delivery-network",
+    "description": "Fast, reliable content delivery network with global reach.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cdn/",
+    "categories": [
+      "Networking",
+      "Web"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure DDoS Protection",
+    "slug": "azure-ddos-protection",
+    "description": "Protect your Azure resources from distributed denial-of-service (DDoS) attacks.",
+    "product_url": "https://azure.microsoft.com/en-us/products/ddos-protection/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure DNS",
+    "slug": "azure-dns",
+    "description": "Host your Domain Name System (DNS) domain in Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/dns/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/dns/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Firewall",
+    "slug": "azure-firewall",
+    "description": "Protect your Azure Virtual Network resources with cloud-native network security.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-firewall/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/firewall/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Firewall Manager",
+    "slug": "azure-firewall-manager",
+    "description": "Central network security policy and route management for globally distributed, software-defined perimeters.",
+    "product_url": "https://azure.microsoft.com/en-us/products/firewall-manager/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Front Door",
+    "slug": "azure-front-door",
+    "description": "Modern cloud CDN that delivers optimized experiences to your users anywhere.",
+    "product_url": "https://azure.microsoft.com/en-us/products/frontdoor/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Load Balancer",
+    "slug": "azure-load-balancer",
+    "description": "Deliver high availability and network performance to your apps.",
+    "product_url": "https://azure.microsoft.com/en-us/products/load-balancer/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/load-balancer/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure NAT Gateway",
+    "slug": "azure-nat-gateway",
+    "description": "Provide highly reliable, secure, and scalable outbound connectivity to the internet.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-nat-gateway",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Network Function Manager",
+    "slug": "azure-network-function-manager",
+    "description": "Extend Azure management for deploying 5G and SD-WAN network functions on edge devices.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-network-function-manager/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/network-function-manager/overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Private Link",
+    "slug": "azure-private-link",
+    "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network.",
+    "product_url": "https://azure.microsoft.com/en-us/products/private-link/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/private-link/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Route Server",
+    "slug": "azure-route-server",
+    "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/route-server/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/route-server/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Virtual Network",
+    "slug": "azure-virtual-network",
+    "description": "Create your own private network infrastructure in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-network/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-network/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Virtual Network Manager",
+    "slug": "azure-virtual-network-manager",
+    "description": "Centrally manage virtual networks in Azure from a single pane of glass.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-network-manager",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/virtual-network-manager/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Virtual WAN",
+    "slug": "azure-virtual-wan",
+    "description": "Optimize and automate branch to branch connectivity through Azure.",
+    "product_url": "https://azure.microsoft.com/en-us/products/virtual-wan/",
+    "categories": [
+      "Networking"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure VPN Gateway",
+    "slug": "azure-vpn-gateway",
+    "description": "Establish secure, cross-premises connectivity.",
+    "product_url": "https://azure.microsoft.com/en-us/products/vpn-gateway/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Web Application Firewall",
+    "slug": "azure-web-application-firewall",
+    "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.",
+    "product_url": "https://azure.microsoft.com/en-us/products/web-application-firewall/",
+    "categories": [
+      "Networking",
+      "Security"
+    ],
+    "primary_category": "Networking",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure App Configuration",
+    "slug": "azure-app-configuration",
+    "description": "Fast, scalable parameter storage for app configuration.",
+    "product_url": "https://azure.microsoft.com/en-us/products/app-configuration/",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Cloud HSM",
+    "slug": "azure-cloud-hsm",
+    "description": "Fully managed, customer-owned, single-tenant hardware security module that provides secure key storage and cryptographic operations within your private virtual network.",
+    "product_url": "https://azure.microsoft.com/en-us/products/cloud-hsm",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Information Protection",
+    "slug": "azure-information-protection",
+    "description": "Better protect your sensitive informationanytime, anywhere.",
+    "product_url": "https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://learn.microsoft.com/en-us/search/?terms=Azure%20Information%20Protection&category=Documentation&scope=Azure",
+    "docs_label": "Microsoft Learn search",
+    "docs_source": "search"
+  },
+  {
+    "name": "Azure Key Vault",
+    "slug": "azure-key-vault",
+    "description": "Safeguard and maintain control of keys and other secrets.",
+    "product_url": "https://azure.microsoft.com/en-us/products/key-vault/",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Azure Attestation",
+    "slug": "microsoft-azure-attestation",
+    "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it.",
+    "product_url": "https://azure.microsoft.com/en-us/products/azure-attestation/",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Microsoft Defender External Attack Surface Management",
+    "slug": "microsoft-defender-external-attack-surface-management",
+    "description": "Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM).",
+    "product_url": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
+    "categories": [
+      "Security"
+    ],
+    "primary_category": "Security",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Archive Storage",
+    "slug": "archive-storage",
+    "description": "Industry leading price point for storing rarely accessed data.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Blob Storage",
+    "slug": "azure-blob-storage",
+    "description": "Massively scalable and secure object storage.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/blobs/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Disk Storage",
+    "slug": "azure-disk-storage",
+    "description": "High-performance, highly durable block storage.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/disks/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Elastic SAN",
+    "slug": "azure-elastic-san",
+    "description": "Elastic SAN is a cloud-native Storage Area Network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/elastic-san/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/elastic-san/elastic-san-introduction",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Files",
+    "slug": "azure-files",
+    "description": "Simple, secure and serverless enterprise-grade cloud file shares.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/files/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Managed Lustre",
+    "slug": "azure-managed-lustre",
+    "description": "Azure Managed Lustre is a fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud.",
+    "product_url": "https://azure.microsoft.com/en-us/products/managed-lustre/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-managed-lustre/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure NetApp Files",
+    "slug": "azure-netapp-files",
+    "description": "Enterprise-grade Azure file shares, powered by NetApp.",
+    "product_url": "https://azure.microsoft.com/en-us/products/netapp/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Storage Actions",
+    "slug": "azure-storage-actions",
+    "description": "Simplify storage data management at massive scale.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage-actions",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage-actions/storage-tasks/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Storage Discovery",
+    "slug": "azure-storage-discovery",
+    "description": "Unlock storage insights with Azure Storage Discovery. Gain visibility with Azure storage monitoring and hone your data strategy with storage solutions insights.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage-discovery",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Queue Storage",
+    "slug": "queue-storage",
+    "description": "Effectively scale apps according to traffic.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/queues/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-dotnet?tabs=dotnet",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Storage Accounts",
+    "slug": "storage-accounts",
+    "description": "Durable, highly available, and massively scalable cloud storage.",
+    "product_url": "https://azure.microsoft.com/en-us/products/category/storage/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Storage Explorer",
+    "slug": "storage-explorer",
+    "description": "View and interact with Azure Storage resources.",
+    "product_url": "https://azure.microsoft.com/en-us/products/storage/storage-explorer/",
+    "categories": [
+      "Storage"
+    ],
+    "primary_category": "Storage",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Lab Services",
+    "slug": "azure-lab-services",
+    "description": "Set up virtual labs for classes, training, hackathons, and other related scenarios.",
+    "product_url": "https://azure.microsoft.com/en-us/products/lab-services/",
+    "categories": [
+      "Virtual desktop infrastructure"
+    ],
+    "primary_category": "Virtual desktop infrastructure",
+    "docs_url": "https://docs.microsoft.com/en-us/azure/architecture/browse/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure Fluid Relay",
+    "slug": "azure-fluid-relay",
+    "description": "Easily add real-time collaborative experiences to your apps with Fluid Framework.",
+    "product_url": "https://azure.microsoft.com/en-us/products/fluid-relay/",
+    "categories": [
+      "Web"
+    ],
+    "primary_category": "Web",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-fluid-relay/",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  },
+  {
+    "name": "Azure SignalR Service",
+    "slug": "azure-signalr-service",
+    "description": "Add real-time web functionalities easily.",
+    "product_url": "https://azure.microsoft.com/en-us/products/signalr-service/",
+    "categories": [
+      "Web"
+    ],
+    "primary_category": "Web",
+    "docs_url": "https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-overview",
+    "docs_label": "Microsoft Learn",
+    "docs_source": "page"
+  }
+]

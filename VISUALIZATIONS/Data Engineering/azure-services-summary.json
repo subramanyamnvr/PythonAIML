@@ -1,0 +1,96 @@
+{
+  "generatedOn": "April 04, 2026",
+  "sourceUrl": "https://azure.microsoft.com/en-us/products",
+  "sourceLabel": "Microsoft Azure products catalog",
+  "categoryCount": 21,
+  "uniqueServiceCount": 202,
+  "crossListedServices": 65,
+  "docsFromPageCount": 189,
+  "docsSearchFallbackCount": 13,
+  "categoryCounts": [
+    {
+      "name": "AI + machine learning",
+      "count": 31
+    },
+    {
+      "name": "Analytics",
+      "count": 19
+    },
+    {
+      "name": "Compute",
+      "count": 22
+    },
+    {
+      "name": "Containers",
+      "count": 9
+    },
+    {
+      "name": "Databases",
+      "count": 15
+    },
+    {
+      "name": "Developer tools",
+      "count": 12
+    },
+    {
+      "name": "DevOps",
+      "count": 19
+    },
+    {
+      "name": "Hybrid + multicloud",
+      "count": 13
+    },
+    {
+      "name": "Identity",
+      "count": 4
+    },
+    {
+      "name": "Integration",
+      "count": 7
+    },
+    {
+      "name": "Internet of Things",
+      "count": 16
+    },
+    {
+      "name": "Management and governance",
+      "count": 25
+    },
+    {
+      "name": "Media",
+      "count": 1
+    },
+    {
+      "name": "Migration",
+      "count": 6
+    },
+    {
+      "name": "Mixed reality",
+      "count": 1
+    },
+    {
+      "name": "Mobile",
+      "count": 7
+    },
+    {
+      "name": "Networking",
+      "count": 21
+    },
+    {
+      "name": "Security",
+      "count": 19
+    },
+    {
+      "name": "Storage",
+      "count": 18
+    },
+    {
+      "name": "Virtual desktop infrastructure",
+      "count": 3
+    },
+    {
+      "name": "Web",
+      "count": 14
+    }
+  ]
+}
