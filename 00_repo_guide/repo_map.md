@@ -1,138 +1,103 @@
 # Repo Map
 
-## `01_python_fundamentals`
+This map reflects the current repo layout, including the flattened course folders and the scaffold areas reserved for future additions.
 
-Focus:
+## Core Learning Content
 
-- Python syntax
-- data structures
-- OOP
-- decorators, generators, iterators
-- modules, environments
-- testing, debugging, logging
-- performance and concurrency basics
+### `01-python-deepdive-main`
 
-Interview outcome:
+- Main Python fundamentals and deeper language concepts
+- Includes a flat numbered notebook layer under `python-deepdive-main`
+- Original part folders are still present for local file compatibility
 
-- Strong coding-round fluency
-- Ability to explain Python internals at a practical level
+### `02-Numpy`
 
-## `02_python_libraries`
+- NumPy arrays and numerical computing notebooks
 
-Focus:
+### `03-Pandas`
 
-- NumPy
-- Pandas
-- plotting libraries
-- statistics/scientific computing
-- APIs, scraping, databases, backend basics
+- Data manipulation, cleaning, and analysis notebooks
 
-Interview outcome:
+### `03_math_for_ai_ml`
 
-- Comfortable working with real-world Python tooling
+- Math foundations structure for linear algebra, probability, statistics, and optimization
 
-## `03_math_for_ai_ml`
+### `04-Matplotlib`
 
-Focus:
+- Core plotting and charting notebooks
 
-- linear algebra
-- probability
-- statistics
-- calculus intuition
-- optimization
+### `05-Seaborn`
 
-Interview outcome:
+- Statistical visualization notebooks
 
-- Can explain why ML algorithms work, not only how to call them
+### `06-NLPComplete`
 
-## `04_machine_learning`
+- Flat NLP notebook path with datasets and reference files at the folder root
+- Good for text preprocessing, feature extraction, spam classification, and sentiment analysis
 
-Focus:
+### `07-LibrariesForDeepLearning`
 
-- ML workflow
-- supervised and unsupervised learning
-- feature engineering
-- evaluation
-- time series
-- classical NLP
-- recommender basics
+- Flat top-level notebook layer for PyTorch and TensorFlow
+- Original `pytorch-deep-learning-main` and `tensorflow-deep-learning-main` source folders remain because notebooks depend on their helpers, data, and assets
 
-Interview outcome:
+### `08_Machine_learning`
 
-- Strong answers for applied ML interviews
+- Sorted topic folders for classical machine learning
+- Covers regression, classification, boosting, clustering, PCA, and anomaly detection
 
-## `05_deep_learning`
+### `09-ComputerVision`
 
-Focus:
+- Flat top-level notebook layer for computer vision
+- Retains `DATA` and the legacy YOLOv3 project for local path compatibility
 
-- neural network basics
-- PyTorch and TensorFlow/Keras
-- CNNs, RNNs, transformers
-- training techniques
-- transfer learning
-- generative architectures
+### `13_interview_prep`
 
-Interview outcome:
+- Current interview notes, use cases, and practice questions
 
-- Can discuss architecture choices, training issues, and optimization
+## Scaffold and Expansion Areas
 
-## `06_genai`
+### `10_genai`
 
-Focus:
+- Planned structure for LLMs, prompting, embeddings, RAG, agents, evals, multimodal systems, and GenAI design
 
-- LLM foundations
-- prompt engineering
-- embeddings
-- vector databases
-- RAG
-- agents and tool use
-- fine-tuning, evals, guardrails
-- multimodal systems
+### `10_resources`
 
-Interview outcome:
+- Reference area for books, papers, templates, datasets, and reusable supporting material
 
-- Ready for modern GenAI engineering discussions
+### `11-deep_learning`
 
-## `07_mlops_and_deployment`
+- Topic-wise deep learning scaffold beyond the imported framework courses
+- Good place for your own notes on transformers, training tricks, transfer learning, and model families
 
-Focus:
+### `11_sandbox`
 
-- version control
-- Docker
-- CI/CD
-- experiment tracking
-- serving
-- pipelines
-- monitoring
-- cloud basics
+- Scratch area for quick experiments
 
-Interview outcome:
+### `12-mlops_and_deployment`
 
-- Can explain how models move from notebook to production
+- Scaffold for Git, Docker, CI/CD, serving, pipelines, monitoring, and cloud notes
 
-## `08_projects`
+### `12_progress_tracking`
 
-Use this section to create:
+- Progress logs, study checklists, and learning plans
 
-- beginner Python projects
-- end-to-end ML projects
-- deep learning experiments
-- GenAI applications
+### `12_projects`
 
-## `09_interview_prep`
+- Structure for Python, ML, DL, and GenAI projects
 
-Use this section for:
+### `VISUALIZATIONS`
 
-- question banks
-- rapid revision notes
-- case studies
-- system design prompts
+- Visual outputs and generated assets
 
-## `12_progress_tracking`
+## Best Starting Points
 
-Use this section to track:
+If you want the most immediately usable paths, start here:
 
-- weekly goals
-- completed topics
-- weak areas
-- mock interview results
+1. `01-python-deepdive-main/python-deepdive-main`
+2. `02-Numpy`
+3. `03-Pandas`
+4. `06-NLPComplete`
+5. `08_Machine_learning`
+6. `07-LibrariesForDeepLearning`
+7. `09-ComputerVision`
+8. `13_interview_prep`

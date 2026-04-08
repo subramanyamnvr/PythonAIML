@@ -1,6 +1,23 @@
 # Study Plan
 
-This plan is designed for structured learning plus interview preparation.
+This plan is aligned to the current repo layout, not the earlier placeholder naming scheme.
+
+## Phase 0: Orientation
+
+Duration:
+
+- 1 day
+
+Focus:
+
+- read the root `README.md`
+- read `00_repo_guide/repo_map.md`
+- identify which folders are active learning paths and which are scaffolds
+
+Deliverables:
+
+- a personal learning order
+- a short list of priority folders
 
 ## Phase 1: Python Core
 
@@ -8,198 +25,193 @@ Duration:
 
 - 3 to 5 weeks
 
+Primary folders:
+
+- `01-python-deepdive-main/python-deepdive-main`
+- `13_interview_prep`
+
 Focus:
 
 - syntax and control flow
-- strings, lists, tuples, sets, dicts
-- functions, lambdas, comprehensions
+- data structures
+- functions and comprehensions
+- scope, mutability, memory model
 - OOP
-- exceptions
-- file handling
-- modules and environments
-- decorators, generators, iterators
-- testing and debugging
+- exceptions and modules
+- decorators, iterators, generators
 
 Deliverables:
 
-- short notes for each topic
-- 3 to 5 code examples per topic
-- 50 Python interview questions
+- short notes for each section
+- 3 to 5 small code examples per topic
+- a first pass through Python interview questions
 
-## Phase 2: Libraries + Data Handling
+## Phase 2: Python Libraries
 
 Duration:
 
 - 2 to 4 weeks
 
-Focus:
+Primary folders:
 
-- NumPy
-- Pandas
-- visualization
-- basic statistics with SciPy/stats
-- APIs and web data collection
-- databases and SQLAlchemy
-
-Deliverables:
-
-- data cleaning notebook/scripts
-- exploratory analysis mini-project
-- cheatsheet for NumPy and Pandas
-
-## Phase 3: Math for ML
-
-Duration:
-
-- 2 to 4 weeks
+- `02-Numpy`
+- `03-Pandas`
+- `04-Matplotlib`
+- `05-Seaborn`
 
 Focus:
 
-- vectors and matrices
-- eigenvalues/eigenvectors intuition
-- distributions
-- hypothesis testing
-- gradients and derivatives intuition
-- optimization basics
+- arrays and vectorized thinking
+- data wrangling
+- plotting and EDA
+- data storytelling basics
 
 Deliverables:
 
-- one-page cheatsheet per math area
-- interview notes focused on intuition, not heavy proofs
+- one cleaned dataset notebook
+- one small EDA notebook
+- quick NumPy and Pandas revision notes
 
-## Phase 4: Machine Learning
+## Phase 3: NLP + Classical ML
 
 Duration:
 
 - 4 to 6 weeks
 
+Primary folders:
+
+- `06-NLPComplete`
+- `08_Machine_learning`
+- `03_math_for_ai_ml`
+
 Focus:
 
-- ML pipeline
-- linear and logistic regression
-- decision trees and random forests
-- SVM, KNN, Naive Bayes
-- clustering and dimensionality reduction
-- feature engineering
-- metrics and validation
-- bias/variance
+- text preprocessing
+- bag-of-words, TF-IDF, Word2Vec
+- regression and classification
+- tree-based methods and boosting
+- clustering, PCA, anomaly detection
+- model evaluation and intuition
 
 Deliverables:
 
-- 2 end-to-end ML projects
-- interview Q&A for models, metrics, and debugging
-- model comparison notes
+- 2 model comparison notebooks
+- 1 text classification walkthrough
+- interview notes for metrics, bias/variance, and model tradeoffs
 
-## Phase 5: Deep Learning
+## Phase 4: Deep Learning Frameworks
 
 Duration:
 
 - 4 to 6 weeks
 
+Primary folders:
+
+- `07-LibrariesForDeepLearning`
+- `09-ComputerVision`
+- `11-deep_learning`
+
 Focus:
 
-- perceptron and backpropagation intuition
-- PyTorch
-- TensorFlow/Keras
-- CNNs
-- sequence models
-- transformers
+- PyTorch workflow
+- TensorFlow/Keras workflow
 - transfer learning
-- training issues and regularization
+- experiment tracking basics
+- CNNs and image pipelines
+- computer vision fundamentals
 
 Deliverables:
 
-- 1 image project
-- 1 text or sequence project
-- framework comparison notes
+- 1 PyTorch notebook summary
+- 1 TensorFlow notebook summary
+- 1 image-focused mini-project or experiment log
 
-## Phase 6: GenAI
+## Phase 5: GenAI
 
 Duration:
 
-- 4 to 6 weeks
+- 3 to 5 weeks
+
+Primary folders:
+
+- `10_genai`
+- `10_resources`
+- `11_sandbox`
 
 Focus:
 
-- LLM fundamentals
-- tokenization and attention intuition
+- LLM foundations
 - prompt engineering
-- embeddings
-- vector search
-- RAG pipelines
+- embeddings and vector search
+- RAG
 - agents and tools
-- evals and guardrails
-- latency, cost, hallucination tradeoffs
+- evals, guardrails, and system tradeoffs
 
 Deliverables:
 
-- 1 RAG project
-- 1 agent or workflow project
-- GenAI system design notes
+- one RAG proof of concept
+- one agent or workflow experiment
+- GenAI interview and design notes
 
-## Phase 7: MLOps + Deployment
+## Phase 6: MLOps + Projects
 
 Duration:
 
 - 2 to 4 weeks
 
+Primary folders:
+
+- `12-mlops_and_deployment`
+- `12_projects`
+- `12_progress_tracking`
+
 Focus:
 
-- Git and packaging basics
-- Docker
-- experiment tracking
-- serving APIs
-- CI/CD basics
-- monitoring
-- cloud deployment concepts
+- packaging and Git workflow
+- Docker and deployment basics
+- serving and monitoring concepts
+- turning notebooks into portfolio-ready work
 
 Deliverables:
 
-- deploy one ML or GenAI app
-- document pipeline, logging, and monitoring strategy
+- one deployed or deployment-ready project
+- a short write-up for architecture, logging, and monitoring choices
 
-## Phase 8: Interview Consolidation
+## Phase 7: Interview Consolidation
 
 Duration:
 
 - ongoing
 
+Primary folders:
+
+- `13_interview_prep`
+- `12_progress_tracking`
+
 Focus:
 
-- topic-wise questions
-- rapid revision
-- mock interviews
+- topic-wise revision
+- question practice
 - case studies
-- system design explanations
+- weak-area review
 
 Deliverables:
 
 - concise answer bank
-- 30/60/90 minute revision sheets
-- weak-topic tracker
+- topic comparison notes
+- weekly weak-topic tracker
 
 ## Weekly Rhythm
 
-Use a simple weekly loop:
+Use a repeatable loop:
 
-1. Learn concepts
-2. Write short notes
-3. Implement examples
-4. Solve interview questions
-5. Revise weak areas
-6. Build or improve one mini-project
+1. Learn from the numbered notebooks or notes.
+2. Write short summaries in your own words.
+3. Implement or rerun examples.
+4. Extract interview questions.
+5. Revise the weak parts.
+6. Add one mini deliverable each week.
 
-## What Makes This Interview Friendly
+## Practical Note
 
-- Every topic should answer:
-  - what it is
-  - how it works
-  - when to use it
-  - limitations
-  - common interview questions
-- Keep comparison tables:
-  - `Random Forest vs XGBoost`
-  - `Bagging vs Boosting`
-  - `Batch Norm vs Layer Norm`
-  - `RAG vs Fine-Tuning`
-  - `Prompting vs Tool Use`
+For folders with a flat notebook layer, use the top-level numbered notebooks first. They were added to make the repo easier to browse without breaking the original local file dependencies.
