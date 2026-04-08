@@ -68,17 +68,17 @@ This map reflects the current repo layout, including the flattened course folder
 - Keeps `assets`, `guides`, and `setup` in place so the existing notebooks and course docs still work
 - Includes a module map and a visual week-by-week learning path
 
-### `13_interview_prep`
+### `14_interview_prep`
 
 - Current interview notes, use cases, and practice questions
 
 ## Scaffold and Expansion Areas
 
-### `12-mlops_and_deployment`
+### `13-mlops_and_deployment`
 
 - Scaffold for Git, Docker, CI/CD, serving, pipelines, monitoring, and cloud notes
 
-### `13_projects`
+### `15_projects`
 
 - Numbered project showcase ordered by portfolio weightage
 - Start with the lowest folder number first if you want the strongest resume and interview material
@@ -102,4 +102,4 @@ If you want the most immediately usable paths, start here:
 8. `10-deep_learning`
 9. `11_genai`
 10. `12_Agentic`
-11. `13_interview_prep`
+11. `14_interview_prep`

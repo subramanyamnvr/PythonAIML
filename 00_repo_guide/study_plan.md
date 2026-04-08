@@ -28,7 +28,7 @@ Duration:
 Primary folders:
 
 - `01-python-deepdive-main/python-deepdive-main`
-- `13_interview_prep`
+- `14_interview_prep`
 
 Focus:
 
@@ -163,21 +163,21 @@ Duration:
 
 Primary folders:
 
-- `12-mlops_and_deployment`
-- `13_projects`
+- `13-mlops_and_deployment`
+- `15_projects`
 
 Focus:
 
 - packaging and Git workflow
 - Docker and deployment basics
 - serving and monitoring concepts
-- work through `13_projects` in numbered order, starting with the strongest portfolio pieces
+- work through `15_projects` in numbered order, starting with the strongest portfolio pieces
 - turning notebooks into portfolio-ready work
 
 Deliverables:
 
 - one deployed or deployment-ready project
-- one polished write-up from a top-ranked project in `13_projects`
+- one polished write-up from a top-ranked project in `15_projects`
 - a short write-up for architecture, logging, and monitoring choices
 
 ## Phase 7: Interview Consolidation
@@ -188,7 +188,7 @@ Duration:
 
 Primary folders:
 
-- `13_interview_prep`
+- `14_interview_prep`
 
 Focus:
 
@@ -220,7 +220,7 @@ For folders with a flat notebook layer, use the top-level numbered notebooks fir
 
 For `10-deep_learning`, use the numbered topic folders first, then follow the notebooks inside each folder in project order.
 
-For `13_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.
+For `15_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.
 
 For `11_genai`, use the numbered topic folders first, then move into the orchestration and platform sections once the retrieval path makes sense.
 
