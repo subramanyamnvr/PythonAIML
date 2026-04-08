@@ -109,7 +109,7 @@ Primary folders:
 
 - `07-LibrariesForDeepLearning`
 - `09-ComputerVision`
-- `11-deep_learning`
+- `10-deep_learning`
 
 Focus:
 
@@ -119,6 +119,7 @@ Focus:
 - experiment tracking basics
 - CNNs and image pipelines
 - computer vision fundamentals
+- sequence models, autoencoders, GANs, and transformers
 
 Deliverables:
 
@@ -126,7 +127,7 @@ Deliverables:
 - 1 TensorFlow notebook summary
 - 1 image-focused mini-project or experiment log
 
-## Phase 5: GenAI
+## Phase 5: GenAI + Agentic
 
 Duration:
 
@@ -134,9 +135,9 @@ Duration:
 
 Primary folders:
 
-- `10_genai`
-- `10_resources`
-- `11_sandbox`
+- `11_genai`
+- `12_Agentic`
+- `Isc_resources`
 
 Focus:
 
@@ -145,6 +146,7 @@ Focus:
 - embeddings and vector search
 - RAG
 - agents and tools
+- LangGraph, CrewAI, AutoGen, and MCP
 - evals, guardrails, and system tradeoffs
 
 Deliverables:
@@ -162,19 +164,20 @@ Duration:
 Primary folders:
 
 - `12-mlops_and_deployment`
-- `12_projects`
-- `12_progress_tracking`
+- `13_projects`
 
 Focus:
 
 - packaging and Git workflow
 - Docker and deployment basics
 - serving and monitoring concepts
+- work through `13_projects` in numbered order, starting with the strongest portfolio pieces
 - turning notebooks into portfolio-ready work
 
 Deliverables:
 
 - one deployed or deployment-ready project
+- one polished write-up from a top-ranked project in `13_projects`
 - a short write-up for architecture, logging, and monitoring choices
 
 ## Phase 7: Interview Consolidation
@@ -186,7 +189,6 @@ Duration:
 Primary folders:
 
 - `13_interview_prep`
-- `12_progress_tracking`
 
 Focus:
 
@@ -215,3 +217,11 @@ Use a repeatable loop:
 ## Practical Note
 
 For folders with a flat notebook layer, use the top-level numbered notebooks first. They were added to make the repo easier to browse without breaking the original local file dependencies.
+
+For `10-deep_learning`, use the numbered topic folders first, then follow the notebooks inside each folder in project order.
+
+For `13_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.
+
+For `11_genai`, use the numbered topic folders first, then move into the orchestration and platform sections once the retrieval path makes sense.
+
+For `12_Agentic`, use the numbered week folders in order, and treat `guides` and `setup` as support folders rather than the main path.

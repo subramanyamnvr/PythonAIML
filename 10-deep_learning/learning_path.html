@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Deep Learning Path</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #111827;
+      --panel-2: #172033;
+      --text: #e5e7eb;
+      --muted: #94a3b8;
+      --line: #243042;
+      --accent: #22c55e;
+      --accent-2: #38bdf8;
+      --warn: #f59e0b;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .shell {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
+
+    .hero {
+      padding: 28px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 10px;
+      padding: 6px 10px;
+      border: 1px solid #1f3b31;
+      border-radius: 999px;
+      color: #bbf7d0;
+      background: rgba(34, 197, 94, 0.08);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 34px;
+      line-height: 1.15;
+    }
+
+    .hero p {
+      margin: 0;
+      max-width: 860px;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .quick-links a {
+      padding: 9px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      color: var(--text);
+      transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+    }
+
+    .quick-links a:hover {
+      transform: translateY(-2px);
+      border-color: #2d4968;
+      background: #1a2941;
+    }
+
+    .stage-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+      margin-top: 24px;
+    }
+
+    .stage {
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      animation: rise 0.45s ease both;
+    }
+
+    .stage:nth-child(2) { animation-delay: 0.05s; }
+    .stage:nth-child(3) { animation-delay: 0.10s; }
+    .stage:nth-child(4) { animation-delay: 0.15s; }
+    .stage:nth-child(5) { animation-delay: 0.20s; }
+    .stage:nth-child(6) { animation-delay: 0.25s; }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .stage-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .stage h2 {
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.2;
+    }
+
+    .count {
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      color: var(--accent-2);
+      background: rgba(56, 189, 248, 0.08);
+      white-space: nowrap;
+      font-size: 12px;
+    }
+
+    .stage p {
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .bar {
+      height: 6px;
+      margin-bottom: 16px;
+      border-radius: 999px;
+      background: #0f172a;
+      overflow: hidden;
+      border: 1px solid var(--line);
+    }
+
+    .bar > span {
+      display: block;
+      height: 100%;
+      background: var(--accent);
+    }
+
+    .modules {
+      display: grid;
+      gap: 10px;
+    }
+
+    .module {
+      padding: 12px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+      transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+    }
+
+    .module:hover {
+      transform: translateY(-2px);
+      border-color: #36506f;
+      background: #1a2941;
+    }
+
+    .module strong {
+      display: block;
+      margin-bottom: 4px;
+      font-size: 14px;
+    }
+
+    .module span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .note-band {
+      margin-top: 24px;
+      padding: 18px 20px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .note-band h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+
+    .notes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+
+    .notes div {
+      padding: 14px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--panel-2);
+    }
+
+    .notes strong {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--warn);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .notes p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 640px) {
+      .shell {
+        padding: 16px 14px 40px;
+      }
+
+      .hero,
+      .stage,
+      .note-band {
+        padding: 18px;
+      }
+
+      h1 {
+        font-size: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <span class="eyebrow">Deep Learning Roadmap</span>
+      <h1>Start at the top and move stage by stage.</h1>
+      <p>
+        The deep learning folder is flat at the first level now. Open the lowest-numbered folder in the stage you want, then run the notebooks inside it in project order.
+        The cleaned notebooks use a portable setup cell so they work more reliably from the folder itself or from the repo root.
+      </p>
+      <div class="quick-links">
+        <a href="./README.md">README</a>
+        <a href="./module_map.md">Module map</a>
+        <a href="./01-Regression-Analysis/">Start at 01</a>
+        <a href="./27-Transfer-Learning-NLP-Transformers/">Jump to transformers</a>
+      </div>
+    </section>
+
+    <section class="stage-grid">
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 1: Foundations</h2>
+          <span class="count">01 to 08</span>
+        </div>
+        <p>Regression, logistic regression, dense networks, and custom building blocks.</p>
+        <div class="bar"><span style="width: 26%"></span></div>
+        <div class="modules">
+          <a class="module" href="./01-Regression-Analysis/"><strong>01-Regression-Analysis</strong><span>Linear, multiple, polynomial, regularization, and search.</span></a>
+          <a class="module" href="./02-Logistic-Regression/"><strong>02-Logistic-Regression</strong><span>Probabilities, metrics, CV, and multiclass classification.</span></a>
+          <a class="module" href="./03-Neural-Networks-Regression/"><strong>03-04 Neural Networks Regression</strong><span>PyTorch and TensorFlow dense-network regression paths.</span></a>
+          <a class="module" href="./05-Neural-Networks-Classification/"><strong>05-06 Neural Networks Classification</strong><span>Dense-network classification, MNIST, and custom-image starts.</span></a>
+          <a class="module" href="./07-Custom-Layers/"><strong>07-08 Custom Components</strong><span>Custom layers and custom losses in PyTorch and TensorFlow.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 2: Optimization</h2>
+          <span class="count">09 to 11</span>
+        </div>
+        <p>Training stability, learning-rate control, and regularization.</p>
+        <div class="bar"><span style="width: 36%"></span></div>
+        <div class="modules">
+          <a class="module" href="./09-Learning-Rate-Scheduling/"><strong>09-Learning-Rate-Scheduling</strong><span>Schedule experiments in PyTorch and TensorFlow.</span></a>
+          <a class="module" href="./10-Dropout-and-Batch-Normalization/"><strong>10-Dropout-and-Batch-Normalization</strong><span>Generalization and stable training across several data types.</span></a>
+          <a class="module" href="./11-Early-Stopping/"><strong>11-Early-Stopping</strong><span>Stop at the right time before overfitting takes over.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 3: Vision and Spatial</h2>
+          <span class="count">12 to 15</span>
+        </div>
+        <p>Core CNN work for images, transfer learning, and one-dimensional CNNs for sequence signals.</p>
+        <div class="bar"><span style="width: 52%"></span></div>
+        <div class="modules">
+          <a class="module" href="./12-Convolutional-Neural-Networks/"><strong>12-Convolutional-Neural-Networks</strong><span>Shapes, MNIST, custom images, ResNet, and VGG-style transfer learning.</span></a>
+          <a class="module" href="./13-Convolutional-Neural-Networks-TensorFlow/"><strong>13-Convolutional-Neural-Networks-TensorFlow</strong><span>TensorFlow/Keras image path with custom images and transfer learning.</span></a>
+          <a class="module" href="./14-One-Dimensional-CNN-PyTorch/"><strong>14-One-Dimensional-CNN-PyTorch</strong><span>One-dimensional CNNs for shapes and time-series classification.</span></a>
+          <a class="module" href="./15-One-Dimensional-CNN-TensorFlow/"><strong>15-One-Dimensional-CNN-TensorFlow</strong><span>TensorFlow/Keras one-dimensional CNN sequence examples.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 4: Sequence Models</h2>
+          <span class="count">16 to 19</span>
+        </div>
+        <p>RNN, LSTM, and bidirectional sequence learning in PyTorch and TensorFlow.</p>
+        <div class="bar"><span style="width: 66%"></span></div>
+        <div class="modules">
+          <a class="module" href="./16-Recurrent-Neural-Networks/"><strong>16-Recurrent-Neural-Networks</strong><span>LSTM sequence modeling, interpolation, and classification.</span></a>
+          <a class="module" href="./17-LSTM-TensorFlow/"><strong>17-LSTM-TensorFlow</strong><span>Prediction and text-classification variants in TensorFlow/Keras.</span></a>
+          <a class="module" href="./18-Bidirectional-LSTM-PyTorch/"><strong>18-19 Bidirectional LSTM</strong><span>Bidirectional sequence models in PyTorch and TensorFlow.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 5: Generative Models</h2>
+          <span class="count">20 to 26</span>
+        </div>
+        <p>Autoencoders, VAE, GAN, DCGAN, and neural style transfer.</p>
+        <div class="bar"><span style="width: 82%"></span></div>
+        <div class="modules">
+          <a class="module" href="./20-Autoencoders/"><strong>20-Autoencoders</strong><span>Denoising, occlusion removal, and classification-style autoencoders.</span></a>
+          <a class="module" href="./21-CNN-Autoencoders/"><strong>21-23 Autoencoder Family</strong><span>CNN autoencoders, LSTM autoencoders, and variational autoencoders.</span></a>
+          <a class="module" href="./24-Generative-Adversarial-Networks/"><strong>24-25 GAN Family</strong><span>Core GAN and deep convolutional GAN training paths.</span></a>
+          <a class="module" href="./26-Neural-Style-Transfer/"><strong>26-Neural-Style-Transfer</strong><span>Style-transfer work with local image assets and helper code.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 6: Transformers</h2>
+          <span class="count">27 to 30</span>
+        </div>
+        <p>Transfer learning, fine-tuning, time-series transformers, and vision transformers.</p>
+        <div class="bar"><span style="width: 100%"></span></div>
+        <div class="modules">
+          <a class="module" href="./27-Transfer-Learning-NLP-Transformers/"><strong>27-Transfer-Learning-NLP-Transformers</strong><span>Sentiment, text generation, masked LM, summarization, translation, and QA.</span></a>
+          <a class="module" href="./28-Fine-Tuning-NLP-Transformers/"><strong>28-Fine-Tuning-NLP-Transformers</strong><span>Tokenizer and fine-tuning workflow for transformer NLP.</span></a>
+          <a class="module" href="./29-Time-Series-Transformers/"><strong>29-Time-Series-Transformers</strong><span>Transformer encoders for reconstruction and classification on sequence data.</span></a>
+          <a class="module" href="./30-Vision-Transformers/"><strong>30-Vision-Transformers</strong><span>Vision-transformer fine-tuning and masked-autoencoder style work.</span></a>
+        </div>
+      </article>
+    </section>
+
+    <section class="note-band">
+      <h3>Keep in mind</h3>
+      <div class="notes">
+        <div>
+          <strong>Notebook order</strong>
+          <p>Inside a folder, follow the notebooks in `Project_01`, `Project_02`, `Project_03` order whenever that sequence exists.</p>
+        </div>
+        <div>
+          <strong>Dataset folders</strong>
+          <p>`Circle_Cross`, `CatDog`, `WESAD_data`, and similar trees stay nested on purpose because the notebooks read them as structured datasets.</p>
+        </div>
+        <div>
+          <strong>Portable setup</strong>
+          <p>The notebooks that previously jumped to a hardcoded Colab drive path now start with a folder-aware setup cell.</p>
+        </div>
+        <div>
+          <strong>Fast path</strong>
+          <p>If you already know the basics, jump straight from Stage 2 into Stage 3 or Stage 4, then return for the missing fundamentals later.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
