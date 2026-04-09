@@ -20,6 +20,7 @@ env/
 build/
 dist/
 *.egg-info/
+**/mlartifacts/**/artifacts/model/model.pkl
 
 # OS / editor
 .DS_Store

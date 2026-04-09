@@ -56,35 +56,40 @@ This map reflects the current repo layout, including the flattened course folder
 - Keeps image-class folders, CSV datasets, and helper scripts inside the topic folders that need them
 - Includes a dedicated README, a module map, and a visual learning path
 
-### `11_genai`
+### `11_typed_python_and_pydantic`
+
+- Numbered space for typed Python foundations and Pydantic-focused projects
+- Covers `typing`, `dataclasses`, `attrs`, `msgspec`, request or response models, settings management, and structured validation
+
+### `12_genai`
 
 - Flat numbered GenAI topic folders
 - Groups together loose notebooks, PDFs, imported repos, and retrieval or orchestration notes
 - Includes a dedicated README, module map, and visual learning path
 
-### `12_Agentic`
+### `13_Agentic`
 
 - Flat numbered week folders for agentic AI
 - Keeps `assets`, `guides`, and `setup` in place so the existing notebooks and course docs still work
 - Includes a module map and a visual week-by-week learning path
 
-### `14_interview_prep`
+### `15_interview_prep`
 
 - Current interview notes, use cases, and practice questions
 
 ## Scaffold and Expansion Areas
 
-### `13-mlops_and_deployment`
+### `14-mlops_and_deployment`
 
 - Scaffold for Git, Docker, CI/CD, serving, pipelines, monitoring, and cloud notes
 
-### `15_projects`
+### `16_projects`
 
 - Numbered project showcase ordered by portfolio weightage
 - Start with the lowest folder number first if you want the strongest resume and interview material
 - Includes a dedicated README and project priority map
 
-### `Isc_resources`
+### `Misc_resources`
 
 - Reference area for books, papers, templates, datasets, and reusable supporting material
 
@@ -100,6 +105,7 @@ If you want the most immediately usable paths, start here:
 6. `07-LibrariesForDeepLearning`
 7. `09-ComputerVision`
 8. `10-deep_learning`
-9. `11_genai`
-10. `12_Agentic`
-11. `14_interview_prep`
+9. `11_typed_python_and_pydantic`
+10. `12_genai`
+11. `13_Agentic`
+12. `15_interview_prep`

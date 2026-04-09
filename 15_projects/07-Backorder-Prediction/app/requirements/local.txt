@@ -1,9 +1,0 @@
--r common.txt
-matplotlib
-seaborn
-prettytable
-
-# [dev]
-autopep8
-ipython
-jupyter

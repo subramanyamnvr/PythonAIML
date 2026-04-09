@@ -12,7 +12,8 @@ Use this folder to understand the structure of the repository before diving into
 - In folders with a flat notebook layer, start from the numbered notebooks at the folder root.
 - Keep imported course folders intact when they provide local datasets, helper scripts, or models.
 - In `10-deep_learning`, use the numbered topic folders as the main path and keep the nested dataset folders only where the notebooks depend on them.
-- In `11_genai`, use the numbered topic folders as the primary path and treat the legacy neural-network folder as optional reference material.
-- In `12_Agentic`, follow the numbered week folders first, then use `guides` and `setup` as support material.
-- Use scaffold folders such as `13-mlops_and_deployment` for new notes, and use `15_projects` as the numbered project run queue and showcase area.
-- Keep interview notes and revision material in `14_interview_prep`.
+- In `11_typed_python_and_pydantic`, use the early companion folders for typing and related-library samples, then continue into the main Pydantic modules.
+- In `12_genai`, use the numbered topic folders as the primary path and treat the legacy neural-network folder as optional reference material.
+- In `13_Agentic`, follow the numbered week folders first, then use `guides` and `setup` as support material.
+- Use scaffold folders such as `14-mlops_and_deployment` for new notes, and use `16_projects` as the numbered project run queue and showcase area.
+- Keep interview notes and revision material in `15_interview_prep`.

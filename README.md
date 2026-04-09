@@ -1,6 +1,6 @@
 # Python + AI/ML/Deep Learning/GenAI Repo
 
-This repository is a single study and revision workspace for Python, data libraries, NLP, machine learning, deep learning, computer vision, GenAI, MLOps, projects, and interview prep.
+This repository is a single study and revision workspace for Python, data libraries, NLP, machine learning, deep learning, typed Python and Pydantic, computer vision, GenAI, MLOps, projects, and interview prep.
 
 
 - numbered notebooks are the main entry point where a flat layer exists
@@ -25,11 +25,12 @@ This repository is a single study and revision workspace for Python, data librar
 8. `07-LibrariesForDeepLearning`
 9. `09-ComputerVision`
 10. `10-deep_learning`
-11. `11_genai`
-12. `12_Agentic`
-13. `13-mlops_and_deployment`
-14. `14_interview_prep`
-15. `15_projects`
+11. `11_typed_python_and_pydantic`
+12. `12_genai`
+13. `13_Agentic`
+14. `14-mlops_and_deployment`
+15. `15_interview_prep`
+16. `16_projects`
 
 ## Main Folders
 
@@ -45,12 +46,13 @@ This repository is a single study and revision workspace for Python, data librar
 - `08_Machine_learning`: sorted classical ML topic folders with a root README
 - `09-ComputerVision`: flat notebook layer for computer vision, plus retained `DATA` and YOLO support files
 - `10-deep_learning`: flat numbered deep learning topic folders, with datasets kept beside the notebooks that use them
-- `11_genai`: flat numbered GenAI topic folders, with grouped notebooks, PDFs, and mini-project repos
-- `12_Agentic`: flat numbered week folders for agentic AI, with guides and setup folders kept intact for compatibility
-- `13-mlops_and_deployment`: scaffold for production and deployment study
-- `14_interview_prep`: interview notes and question banks
-- `15_projects`: curated numbered project showcase, ordered by portfolio value
-- `Isc_resources`: reference area for books, papers, templates, and supporting material
+- `11_typed_python_and_pydantic`: numbered space for typing, dataclasses, attrs, msgspec, and Pydantic validation or schema-focused work
+- `12_genai`: flat numbered GenAI topic folders, with grouped notebooks, PDFs, and mini-project repos
+- `13_Agentic`: flat numbered week folders for agentic AI, with guides and setup folders kept intact for compatibility
+- `14-mlops_and_deployment`: scaffold for production and deployment study
+- `15_interview_prep`: interview notes and question banks
+- `16_projects`: curated numbered project showcase, ordered by portfolio value
+- `Misc_resources`: reference area for books, papers, templates, and supporting material
 
 ## Folder-Level Guides
 
@@ -59,16 +61,18 @@ This repository is a single study and revision workspace for Python, data librar
 - [08_Machine_learning/README.md](08_Machine_learning/README.md)
 - [09-ComputerVision/README.md](09-ComputerVision/README.md)
 - [10-deep_learning/README.md](10-deep_learning/README.md)
-- [11_genai/README.md](11_genai/README.md)
-- [12_Agentic/module_map.md](12_Agentic/module_map.md)
-- [15_projects/README.md](15_projects/README.md)
+- [11_typed_python_and_pydantic/README.md](11_typed_python_and_pydantic/README.md)
+- [12_genai/README.md](12_genai/README.md)
+- [13_Agentic/module_map.md](13_Agentic/module_map.md)
+- [16_projects/README.md](16_projects/README.md)
 
 ## Notes
 
 - In flattened folders, start with the numbered top-level notebooks rather than digging into the legacy source folders first.
 - In `10-deep_learning`, start with the numbered topic folders, then open the notebooks inside each topic in project order.
-- In `11_genai`, start with the numbered topic folders and treat the last legacy folder as optional background material.
-- In `12_Agentic`, follow the numbered week folders in order and use `guides` and `setup` only when you need supporting context.
-- In `15_projects`, follow the numbered folders from lowest to highest number; lower number means higher resume and interview priority.
+- In `11_typed_python_and_pydantic`, use `03` through `06` for companion code samples, then use `02` and `07` through `16` as the main Pydantic path.
+- In `12_genai`, start with the numbered topic folders and treat the last legacy folder as optional background material.
+- In `13_Agentic`, follow the numbered week folders in order and use `guides` and `setup` only when you need supporting context.
+- In `16_projects`, follow the numbered folders from lowest to highest number; lower number means higher resume and interview priority.
 - Some folders are already populated learning paths, while others are intentionally scaffolded for future notes, projects, and interview material.
 - Imported course content has been kept runnable by preserving local data paths and helper modules where needed.

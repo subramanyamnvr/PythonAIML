@@ -28,7 +28,7 @@ Duration:
 Primary folders:
 
 - `01-python-deepdive-main/python-deepdive-main`
-- `14_interview_prep`
+- `15_interview_prep`
 
 Focus:
 
@@ -127,7 +127,7 @@ Deliverables:
 - 1 TensorFlow notebook summary
 - 1 image-focused mini-project or experiment log
 
-## Phase 5: GenAI + Agentic
+## Phase 5: Typed Python + Pydantic + GenAI + Agentic
 
 Duration:
 
@@ -135,12 +135,18 @@ Duration:
 
 Primary folders:
 
-- `11_genai`
-- `12_Agentic`
-- `Isc_resources`
+- `11_typed_python_and_pydantic`
+- `12_genai`
+- `13_Agentic`
+- `Misc_resources`
 
 Focus:
 
+- Python type hints and modeling patterns
+- dataclasses and related lightweight model libraries
+- data validation and schema design
+- settings and configuration models
+- structured outputs for apps and LLM workflows
 - LLM foundations
 - prompt engineering
 - embeddings and vector search
@@ -151,6 +157,7 @@ Focus:
 
 Deliverables:
 
+- one Pydantic mini-project or validation workflow
 - one RAG proof of concept
 - one agent or workflow experiment
 - GenAI interview and design notes
@@ -163,21 +170,21 @@ Duration:
 
 Primary folders:
 
-- `13-mlops_and_deployment`
-- `15_projects`
+- `14-mlops_and_deployment`
+- `16_projects`
 
 Focus:
 
 - packaging and Git workflow
 - Docker and deployment basics
 - serving and monitoring concepts
-- work through `15_projects` in numbered order, starting with the strongest portfolio pieces
+- work through `16_projects` in numbered order, starting with the strongest portfolio pieces
 - turning notebooks into portfolio-ready work
 
 Deliverables:
 
 - one deployed or deployment-ready project
-- one polished write-up from a top-ranked project in `15_projects`
+- one polished write-up from a top-ranked project in `16_projects`
 - a short write-up for architecture, logging, and monitoring choices
 
 ## Phase 7: Interview Consolidation
@@ -188,7 +195,7 @@ Duration:
 
 Primary folders:
 
-- `14_interview_prep`
+- `15_interview_prep`
 
 Focus:
 
@@ -220,8 +227,10 @@ For folders with a flat notebook layer, use the top-level numbered notebooks fir
 
 For `10-deep_learning`, use the numbered topic folders first, then follow the notebooks inside each folder in project order.
 
-For `15_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.
+For `11_typed_python_and_pydantic`, use the companion code-sample folders first when you want quick syntax examples, then move into the larger Pydantic modules.
 
-For `11_genai`, use the numbered topic folders first, then move into the orchestration and platform sections once the retrieval path makes sense.
+For `12_genai`, use the numbered topic folders first, then move into the orchestration and platform sections once the retrieval path makes sense.
 
-For `12_Agentic`, use the numbered week folders in order, and treat `guides` and `setup` as support folders rather than the main path.
+For `13_Agentic`, use the numbered week folders in order, and treat `guides` and `setup` as support folders rather than the main path.
+
+For `16_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.
