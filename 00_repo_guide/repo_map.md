@@ -1,6 +1,6 @@
 # Repo Map
 
-This map reflects the current repo layout, including the flattened course folders and the scaffold areas reserved for future additions.
+This map reflects the current repo layout, including the flattened course folders and the newer structured expansion areas.
 
 ## Core Learning Content
 
@@ -43,16 +43,17 @@ This map reflects the current repo layout, including the flattened course folder
 ### `08_Machine_learning`
 
 - Sorted topic folders for classical machine learning
-- Covers regression, classification, boosting, clustering, PCA, and anomaly detection
+- Covers regression, classification, boosting, clustering, PCA, anomaly detection, time series, recommender systems, and causal inference or A/B testing
 
 ### `09-ComputerVision`
 
 - Flat top-level notebook layer for computer vision
 - Retains `DATA` and the legacy YOLOv3 project for local path compatibility
+- Now includes expansion folders for object tracking, segmentation, OCR, and a capstone path
 
 ### `10-deep_learning`
 
-- Flat numbered topic folders for deeper model families, training tricks, sequence models, generative models, and transformers
+- Flat numbered topic folders for deeper model families, training tricks, sequence models, generative models, transformers, and reinforcement learning basics
 - Keeps image-class folders, CSV datasets, and helper scripts inside the topic folders that need them
 - Includes a dedicated README, a module map, and a visual learning path
 
@@ -65,6 +66,7 @@ This map reflects the current repo layout, including the flattened course folder
 
 - Flat numbered GenAI topic folders
 - Groups together loose notebooks, PDFs, imported repos, and retrieval or orchestration notes
+- Now extends into PEFT, evals, guardrails, multimodal work, and agent memory or state
 - Includes a dedicated README, module map, and visual learning path
 
 ### `13_Agentic`
@@ -73,15 +75,16 @@ This map reflects the current repo layout, including the flattened course folder
 - Keeps `assets`, `guides`, and `setup` in place so the existing notebooks and course docs still work
 - Includes a module map and a visual week-by-week learning path
 
-### `15_interview_prep`
-
-- Current interview notes, use cases, and practice questions
-
-## Scaffold and Expansion Areas
-
 ### `14-mlops_and_deployment`
 
-- Scaffold for Git, Docker, CI/CD, serving, pipelines, monitoring, and cloud notes
+- Structured production-study path for SQL or analytics, data engineering, notebook-to-package testing, CI, registry, serving, monitoring, and reproducibility
+- Imported project folders stay in place as examples and reference implementations
+
+### `15_interview_prep`
+
+- Structured interview hub with topic-wise folders for Python, SQL and stats, ML, DL, GenAI, system design, case studies, and revision cheatsheets
+
+## Build and Showcase Areas
 
 ### `16_projects`
 
@@ -100,12 +103,14 @@ If you want the most immediately usable paths, start here:
 1. `01-python-deepdive-main/python-deepdive-main`
 2. `02-Numpy`
 3. `03-Pandas`
-4. `06-NLPComplete`
-5. `08_Machine_learning`
-6. `07-LibrariesForDeepLearning`
-7. `09-ComputerVision`
-8. `10-deep_learning`
-9. `11_typed_python_and_pydantic`
-10. `12_genai`
-11. `13_Agentic`
-12. `15_interview_prep`
+4. `03_math_for_ai_ml`
+5. `06-NLPComplete`
+6. `08_Machine_learning`
+7. `07-LibrariesForDeepLearning`
+8. `09-ComputerVision`
+9. `10-deep_learning`
+10. `11_typed_python_and_pydantic`
+11. `12_genai`
+12. `13_Agentic`
+13. `14-mlops_and_deployment`
+14. `15_interview_prep`

@@ -31,21 +31,30 @@ Open [module_map.md](module_map.md) for the topic-by-topic breakdown, or open [l
 
 - `09-Hugging-Face-and-Open-Source-Models`
 - `10-Fine-Tuning`
-- `11-LCEL-and-LangChain-Updates`
 
 ### Stage 5: Orchestration and Platforms
 
+- `11-LCEL-and-LangChain-Updates`
 - `12-LangGraph-and-Orchestration-Notes`
 - `13-Cloud-GenAI-Platforms`
 - `14-Agentic-Framework-Extras`
 
-### Stage 6: Legacy Background Material
+### Stage 6: Advanced Production Topics
 
-- `15-Legacy-Neural-Network-Background`
+- `15-PEFT-LoRA-QLoRA-and-Inference-Serving`
+- `16-LLM-Evals-and-Observability`
+- `17-Guardrails-and-AI-Security`
+- `18-Multimodal-GenAI`
+- `19-Agent-Memory-and-State`
+
+### Stage 7: Legacy Background Material
+
+- `20-Legacy-Neural-Network-Background`
 
 ## Practical Notes
 
 - Start from the lowest-numbered folder unless you already know the basics.
 - Within a topic folder, follow notebooks in `01`, `02`, `03` or `Project_01`, `Project_02`, `Project_03` order where that pattern exists.
 - Some imported course material still uses nested dataset folders or local asset folders. Those were kept beside the code that depends on them.
-- `15-Legacy-Neural-Network-Background` holds older ANN, RNN, and LSTM study material that was sitting in the GenAI area already. It was grouped cleanly, but it is not the main GenAI path.
+- `15` through `19` are the newer production-oriented additions for adaptation, evals, safety, multimodal work, and stateful agent design.
+- `20-Legacy-Neural-Network-Background` holds older ANN, RNN, and LSTM study material that was sitting in the GenAI area already. It was grouped cleanly, but it is not the main GenAI path.

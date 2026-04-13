@@ -1,11 +1,9 @@
-import langchain
 import os
 import streamlit as st
 import requests
 import sounddevice as sd
 import wavio
 os.environ["OPENAI_API_KEY"]="ADD KEY" 
-import openai
 from openai import OpenAI
 client=OpenAI()
 from langchain.prompts import ChatPromptTemplate

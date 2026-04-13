@@ -21,9 +21,44 @@ build/
 dist/
 *.egg-info/
 **/mlartifacts/**/artifacts/model/model.pkl
+.coverage
+htmlcov/
+*.log
+
+# ML / experiment outputs
+mlruns/
+**/mlruns/
+mlartifacts/
+**/mlartifacts/
+wandb/
+**/wandb/
+catboost_info/
+**/catboost_info/
+.dvc/cache/
+**/.dvc/cache/
+outputs/
+**/outputs/
+
+# Model / checkpoint files
+*.ckpt
+*.h5
+*.joblib
+*.keras
+*.onnx
+*.pickle
+*.pkl
+*.pt
+*.pth
+
+# Generated local demo state
+**/agent_state.json
+**/registry.json
+**/run_manifest.json
+15_interview_prep/interview_pack.md
 
 # OS / editor
 .DS_Store
 Thumbs.db
 .idea/
 .vscode/
+tempCodeRunnerFile.py

@@ -40,10 +40,10 @@ This map explains the cleaned GenAI sequence and what each numbered folder is fo
 - `10-Fine-Tuning`  
   Fine-tuning code plus the Gemma notebook and related setup files.
 
+## Orchestration and Platforms
+
 - `11-LCEL-and-LangChain-Updates`  
   LCEL, serve/client experiments, and updated LangChain project structure.
-
-## Orchestration and Platforms
 
 - `12-LangGraph-and-Orchestration-Notes`  
   LangGraph starter notebooks and orchestration-oriented workflow examples.
@@ -54,14 +54,32 @@ This map explains the cleaned GenAI sequence and what each numbered folder is fo
 - `14-Agentic-Framework-Extras`  
   CrewAI crash-course material and MCP notes that were already colocated in the GenAI area.
 
+## Advanced Production Topics
+
+- `15-PEFT-LoRA-QLoRA-and-Inference-Serving`  
+  Starter expansion folder for PEFT, adapters, low-rank fine-tuning, quantized adaptation, and inference-serving patterns.
+
+- `16-LLM-Evals-and-Observability`  
+  Starter expansion folder for offline evals, online evals, tracing, regression checks, and application-level observability.
+
+- `17-Guardrails-and-AI-Security`  
+  Starter expansion folder for prompt-injection defenses, output validation, PII handling, policy checks, and safe tool use.
+
+- `18-Multimodal-GenAI`  
+  Starter expansion folder for image-text workflows, vision-language prompting, audio pipelines, and multimodal app patterns.
+
+- `19-Agent-Memory-and-State`  
+  Starter expansion folder for short-term memory, long-term memory, episodic traces, state stores, and checkpointed agent workflows.
+
 ## Legacy Background Material
 
-- `15-Legacy-Neural-Network-Background`  
+- `20-Legacy-Neural-Network-Background`  
   Older ANN, RNN, LSTM, and sequence-model reference material that did not belong in the main GenAI path but was worth preserving in one clear place.
 
 ## Layout Notes
 
-- The first folder layer is now continuously numbered from `01` to `15`.
+- The first folder layer is now continuously numbered from `01` to `20`.
 - Related loose notebooks and PDFs were moved into topic folders so the root stays readable.
 - Wrapper folders were flattened where they only repeated the folder name without adding structure.
 - Imported mini-project repos remain intact inside the topic folders when they contain their own local assets or app structure.
+- The newer `15` through `19` folders are starter expansion areas for modern production-grade GenAI work.

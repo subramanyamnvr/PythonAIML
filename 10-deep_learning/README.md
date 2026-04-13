@@ -58,9 +58,14 @@ Open [module_map.md](module_map.md) for the detailed folder-by-folder breakdown,
 - `29-Time-Series-Transformers`
 - `30-Vision-Transformers`
 
+### Stage 7: Reinforcement Learning
+
+- `31-Reinforcement-Learning-Basics`
+
 ## Practical Notes
 
 - Start with the lowest-numbered folder in a stage, then move upward.
 - Within each folder, follow the notebook filenames in `Project_01`, `Project_02`, `Project_03` order where available.
 - Folders that use `Circle_Cross`, `CatDog`, `WESAD_data`, or similar dataset trees intentionally keep those nested directories because the notebooks expect class-based image or sequence inputs.
 - The deep learning folder is flat at the topic level now; no extra curriculum nesting is needed to find the next module.
+- `31-Reinforcement-Learning-Basics` is a starter expansion folder for adding tabular RL, policy gradients, and environment-centric notes without overloading the transformer section.

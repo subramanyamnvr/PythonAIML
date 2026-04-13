@@ -1,0 +1,7 @@
+torch
+transformers
+peft
+trl
+accelerate
+datasets
+auto-gptq

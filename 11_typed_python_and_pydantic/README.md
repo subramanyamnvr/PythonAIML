@@ -59,6 +59,7 @@ This folder sits before GenAI in the main repo order and now covers typed Python
 ## How To Use It
 
 - Keep projects and notes in numbered folders so the section stays easy to sort.
+- Start `01-Pydantic-Project/onepydantic` if you want one integrated runnable example before the notebook-heavy path.
 - Use `03` through `06` for companion code samples covering stdlib typing, dataclasses, and nearby libraries.
 - Use `02` and `07` through `16` as the main Pydantic course path.
 - Use `17-Pydantic-Essentials-Meta` for the imported course README, dependency files, and license.

@@ -1,6 +1,6 @@
 # Study Plan
 
-This plan is aligned to the current repo layout, not the earlier placeholder naming scheme.
+This plan is aligned to the current repo layout, including the newer topic expansions in ML, deep learning, GenAI, MLOps, and interview prep.
 
 ## Phase 0: Orientation
 
@@ -12,7 +12,7 @@ Focus:
 
 - read the root `README.md`
 - read `00_repo_guide/repo_map.md`
-- identify which folders are active learning paths and which are scaffolds
+- identify which folders are active learning paths, which are expansion folders, and which are imported example repos
 
 Deliverables:
 
@@ -28,7 +28,7 @@ Duration:
 Primary folders:
 
 - `01-python-deepdive-main/python-deepdive-main`
-- `15_interview_prep`
+- `15_interview_prep/01_python_questions`
 
 Focus:
 
@@ -91,13 +91,17 @@ Focus:
 - regression and classification
 - tree-based methods and boosting
 - clustering, PCA, anomaly detection
+- classical time series forecasting
+- recommender systems
+- causal inference, experiments, and A/B testing
 - model evaluation and intuition
 
 Deliverables:
 
 - 2 model comparison notebooks
 - 1 text classification walkthrough
-- interview notes for metrics, bias/variance, and model tradeoffs
+- 1 forecasting or recommender-system outline
+- interview notes for metrics, bias/variance, causality, and model tradeoffs
 
 ## Phase 4: Deep Learning Frameworks
 
@@ -119,13 +123,15 @@ Focus:
 - experiment tracking basics
 - CNNs and image pipelines
 - computer vision fundamentals
-- sequence models, autoencoders, GANs, and transformers
+- segmentation, OCR, and tracking extensions
+- sequence models, autoencoders, GANs, transformers, and reinforcement learning basics
 
 Deliverables:
 
 - 1 PyTorch notebook summary
 - 1 TensorFlow notebook summary
 - 1 image-focused mini-project or experiment log
+- 1 small reinforcement-learning or CV-expansion note set
 
 ## Phase 5: Typed Python + Pydantic + GenAI + Agentic
 
@@ -151,14 +157,19 @@ Focus:
 - prompt engineering
 - embeddings and vector search
 - RAG
+- PEFT, LoRA, and QLoRA
+- evals and observability
+- guardrails and AI security
+- multimodal GenAI
+- agent memory and state
 - agents and tools
 - LangGraph, CrewAI, AutoGen, and MCP
-- evals, guardrails, and system tradeoffs
 
 Deliverables:
 
 - one Pydantic mini-project or validation workflow
 - one RAG proof of concept
+- one eval or guardrail checklist
 - one agent or workflow experiment
 - GenAI interview and design notes
 
@@ -175,17 +186,23 @@ Primary folders:
 
 Focus:
 
-- packaging and Git workflow
-- Docker and deployment basics
-- serving and monitoring concepts
+- SQL and analytics for AI or ML work
+- data engineering for ML pipelines
+- notebook-to-package refactors
+- testing and CI
+- experiment tracking and model registry
+- model serving and deployment
+- monitoring and observability
+- reproducibility and pipeline reliability
 - work through `16_projects` in numbered order, starting with the strongest portfolio pieces
 - turning notebooks into portfolio-ready work
 
 Deliverables:
 
-- one deployed or deployment-ready project
+- one packaged or deployment-ready project
+- one CI or testing checklist
+- one short write-up for architecture, logging, reproducibility, and monitoring choices
 - one polished write-up from a top-ranked project in `16_projects`
-- a short write-up for architecture, logging, and monitoring choices
 
 ## Phase 7: Interview Consolidation
 
@@ -200,7 +217,8 @@ Primary folders:
 Focus:
 
 - topic-wise revision
-- question practice
+- SQL and stats drills
+- ML and GenAI system design
 - case studies
 - weak-area review
 
@@ -209,6 +227,7 @@ Deliverables:
 - concise answer bank
 - topic comparison notes
 - weekly weak-topic tracker
+- one compact revision sheet per major area
 
 ## Weekly Rhythm
 
@@ -229,8 +248,12 @@ For `10-deep_learning`, use the numbered topic folders first, then follow the no
 
 For `11_typed_python_and_pydantic`, use the companion code-sample folders first when you want quick syntax examples, then move into the larger Pydantic modules.
 
-For `12_genai`, use the numbered topic folders first, then move into the orchestration and platform sections once the retrieval path makes sense.
+For `12_genai`, use the numbered topic folders first, then move into the newer production-focused topics in `15` through `19` before dipping into the legacy background folder.
 
 For `13_Agentic`, use the numbered week folders in order, and treat `guides` and `setup` as support folders rather than the main path.
+
+For `14-mlops_and_deployment`, use the numbered folders first and treat the imported project folders as runnable examples.
+
+For `15_interview_prep`, keep notes inside the numbered section folders instead of storing everything at the root.
 
 For `16_projects`, use the numbered folders as a portfolio-first execution order, not as a difficulty ladder.

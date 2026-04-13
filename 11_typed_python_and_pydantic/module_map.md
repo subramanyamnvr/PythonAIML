@@ -9,13 +9,18 @@ This map reflects the current `11_typed_python_and_pydantic` structure after bro
 - Companion code-sample folders: 4
 - Pydantic learning module folders: 11
 - Meta/support folders: 1
-- Existing Pydantic files were preserved, and new related-library sample folders were added in sorted order.
+- Existing Pydantic files were preserved, related-library sample folders remain in sorted order, and `01-Pydantic-Project` now includes the integrated `onepydantic` demo project.
 
 ## Folder Order
 
 ### `01-Pydantic-Project`
 
 - `README.md`
+- `onepydantic/README.md`
+- `onepydantic/linkedin_post_outline.md`
+- `onepydantic/main.py`
+- `onepydantic/requirements.txt`
+- `onepydantic/sample_enrollment.json`
 
 ### `02-Basics`
 

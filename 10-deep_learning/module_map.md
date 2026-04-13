@@ -104,9 +104,14 @@ This map shows the new numbered sequence and the intent of each folder.
 - `30-Vision-Transformers`  
   Formerly `Vision Transformer`. Vision-transformer fine-tuning and masked-autoencoder style notebooks.
 
+## Reinforcement Learning
+
+- `31-Reinforcement-Learning-Basics`  
+  Starter expansion folder for bandits, Markov decision processes, Q-learning, policy gradients, and environment-driven experimentation.
+
 ## Layout Notes
 
-- Topic folders are now numbered continuously from `01` to `30`.
+- Topic folders are now numbered continuously from `01` to `31`.
 - Support files remain beside the notebooks that use them.
 - The goal was to flatten the learning path, not to break image-folder datasets or sequence-data layouts that the notebooks depend on.
 - Portable setup cells were added to the notebooks that previously depended on hardcoded Colab drive navigation.

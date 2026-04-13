@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import sounddevice as sd
 import wavio
-from langchain import OpenAI
 import os
 os.environ["OPENAI_API_KEY"]="API_KEY" 
 from openai import OpenAI

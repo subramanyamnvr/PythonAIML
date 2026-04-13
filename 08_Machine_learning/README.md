@@ -62,8 +62,18 @@ This section is now organized as one flat topic folder per module.
 - `18-Anomaly-Detection`
   Includes anomaly detection notes, the isolation forest notebook, the DBSCAN anomaly notebook, and the healthcare dataset.
 
+- `19-Time-Series-Forecasting`
+  Starter expansion folder for ARIMA, SARIMA, Prophet-style workflows, feature-based forecasting, and backtesting discipline.
+
+- `20-Recommender-Systems`
+  Starter expansion folder for collaborative filtering, content-based recommenders, ranking metrics, retrieval, and re-ranking ideas.
+
+- `21-Causal-Inference-and-AB-Testing`
+  Starter expansion folder for treatment effects, confounding, uplift thinking, experiment design, and A/B testing interpretation.
+
 ## Layout Notes
 
 - There are no nested subfolders left inside the topic folders.
 - Files that were previously under `Projects`, `Handwritten Notes`, `reference_notes`, or `data` now sit directly in their topic folder.
 - Dataset paths inside the moved notebooks were updated to match the flatter layout.
+- The last three folders are expansion scaffolds for high-value classical ML topics that fit naturally after the current path.

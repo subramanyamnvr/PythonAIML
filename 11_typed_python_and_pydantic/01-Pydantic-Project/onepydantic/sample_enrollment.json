@@ -1,0 +1,46 @@
+{
+  "student": {
+    "fullName": "vihaan sharma",
+    "email": "vihaan@example.com",
+    "experienceYears": 3,
+    "preferredTrack": "genai",
+    "portfolioUrl": "https://example.com/vihaan",
+    "address": {
+      "line1": "42 Knowledge Park",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "postalCode": "560001",
+      "country": "India"
+    },
+    "emergencyContact": {
+      "name": "Aarav Sharma",
+      "relationship": "Brother",
+      "phone": "+919876543210"
+    }
+  },
+  "modules": [
+    {
+      "code": "LLM-101",
+      "title": "Prompt Engineering Foundations",
+      "duration_hours": 6,
+      "tags": ["prompting", "llms", "api"]
+    },
+    {
+      "code": "RAG-210",
+      "title": "Retrieval Augmented Generation",
+      "duration_hours": 8,
+      "tags": ["rag", "vector-db", "llms"]
+    }
+  ],
+  "plan": {
+    "plan_type": "team",
+    "seat_count": 4,
+    "company_name": "Acme AI Labs",
+    "mentoring_sessions": 6
+  },
+  "deliveryMode": "hybrid",
+  "startAt": "2026-05-05T09:30:00+05:30",
+  "couponCode": "launch10",
+  "basePrice": "14999.00",
+  "notes": "needs evening batch | wants capstone feedback"
+}

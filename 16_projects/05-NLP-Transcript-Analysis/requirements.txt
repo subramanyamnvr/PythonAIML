@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+numpy
+scipy
+requests
+torch
+transformers
+sentence-transformers
+spacy
+keybert
+keyphrase-vectorizers
+nltk

@@ -94,6 +94,7 @@
     .stage:nth-child(4) { animation-delay: 0.15s; }
     .stage:nth-child(5) { animation-delay: 0.20s; }
     .stage:nth-child(6) { animation-delay: 0.25s; }
+    .stage:nth-child(7) { animation-delay: 0.30s; }
     @keyframes rise {
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
@@ -200,7 +201,7 @@
       <span class="eyebrow">GenAI Roadmap</span>
       <h1>Move from LLM basics into retrieval, tuning, orchestration, and platforms.</h1>
       <p>
-        The GenAI folder now has a clean numbered first layer. Start with the lower numbers for foundations, then branch into retrieval, fine-tuning, orchestration, or cloud tooling depending on what you want to build next.
+        The GenAI folder now has a clean numbered first layer. Start with the lower numbers for foundations, then branch into retrieval, orchestration, PEFT, evals, multimodal work, or safety-oriented production topics depending on what you want to build next.
       </p>
       <div class="quick-links">
         <a href="./README.md">README</a>
@@ -255,25 +256,25 @@
       <article class="stage">
         <div class="stage-head">
           <h2>Stage 4: Model Adaptation</h2>
-          <span class="count">09 to 11</span>
+          <span class="count">09 to 10</span>
         </div>
-        <p>Open-source models, quantization, fine-tuning, LCEL, and updated LangChain patterns.</p>
-        <div class="bar"><span style="width: 76%"></span></div>
+        <p>Open-source models, quantization, and fine-tuning foundations.</p>
+        <div class="bar"><span style="width: 70%"></span></div>
         <div class="modules">
           <a class="module" href="./09-Hugging-Face-and-Open-Source-Models/"><strong>09-Hugging-Face-and-Open-Source-Models</strong><span>Hugging Face, CodeLlama, and compact-model notes.</span></a>
           <a class="module" href="./10-Fine-Tuning/"><strong>10-Fine-Tuning</strong><span>Fine-tuning scripts and model adaptation notebooks.</span></a>
-          <a class="module" href="./11-LCEL-and-LangChain-Updates/"><strong>11-LCEL-and-LangChain-Updates</strong><span>LCEL, serve/client examples, and newer LangChain structures.</span></a>
         </div>
       </article>
 
       <article class="stage">
         <div class="stage-head">
           <h2>Stage 5: Orchestration and Platforms</h2>
-          <span class="count">12 to 14</span>
+          <span class="count">11 to 14</span>
         </div>
-        <p>LangGraph notes, cloud platform material, and extra framework references.</p>
-        <div class="bar"><span style="width: 92%"></span></div>
+        <p>LCEL, orchestration patterns, cloud platform material, and extra framework references.</p>
+        <div class="bar"><span style="width: 82%"></span></div>
         <div class="modules">
+          <a class="module" href="./11-LCEL-and-LangChain-Updates/"><strong>11-LCEL-and-LangChain-Updates</strong><span>LCEL, serve/client examples, and newer LangChain structures.</span></a>
           <a class="module" href="./12-LangGraph-and-Orchestration-Notes/"><strong>12-LangGraph-and-Orchestration-Notes</strong><span>Workflow orchestration and LangGraph-oriented notebook examples.</span></a>
           <a class="module" href="./13-Cloud-GenAI-Platforms/"><strong>13-Cloud-GenAI-Platforms</strong><span>AWS Bedrock, Nvidia NIM, and cloud GenAI material.</span></a>
           <a class="module" href="./14-Agentic-Framework-Extras/"><strong>14-Agentic-Framework-Extras</strong><span>Extra CrewAI and MCP-adjacent notes that were already in this area.</span></a>
@@ -282,13 +283,29 @@
 
       <article class="stage">
         <div class="stage-head">
-          <h2>Stage 6: Legacy Background</h2>
-          <span class="count">15</span>
+          <h2>Stage 6: Advanced Production Topics</h2>
+          <span class="count">15 to 19</span>
+        </div>
+        <p>PEFT, evals, guardrails, multimodal work, and stateful agent design.</p>
+        <div class="bar"><span style="width: 94%"></span></div>
+        <div class="modules">
+          <a class="module" href="./15-PEFT-LoRA-QLoRA-and-Inference-Serving/"><strong>15-PEFT-LoRA-QLoRA-and-Inference-Serving</strong><span>Efficient fine-tuning and deployment-friendly serving patterns.</span></a>
+          <a class="module" href="./16-LLM-Evals-and-Observability/"><strong>16-LLM-Evals-and-Observability</strong><span>Eval design, tracing, regressions, and runtime visibility.</span></a>
+          <a class="module" href="./17-Guardrails-and-AI-Security/"><strong>17-Guardrails-and-AI-Security</strong><span>Policy enforcement, validation, and threat-aware GenAI design.</span></a>
+          <a class="module" href="./18-Multimodal-GenAI/"><strong>18-Multimodal-GenAI</strong><span>Image, audio, and mixed-modality application patterns.</span></a>
+          <a class="module" href="./19-Agent-Memory-and-State/"><strong>19-Agent-Memory-and-State</strong><span>Memory stores, checkpoints, and state-aware agent workflows.</span></a>
+        </div>
+      </article>
+
+      <article class="stage">
+        <div class="stage-head">
+          <h2>Stage 7: Legacy Background</h2>
+          <span class="count">20</span>
         </div>
         <p>Older neural-network notes kept for reference, not as the main GenAI path.</p>
         <div class="bar"><span style="width: 100%"></span></div>
         <div class="modules">
-          <a class="module" href="./15-Legacy-Neural-Network-Background/"><strong>15-Legacy-Neural-Network-Background</strong><span>ANN, RNN, LSTM, and older sequence-model reference material grouped cleanly.</span></a>
+          <a class="module" href="./20-Legacy-Neural-Network-Background/"><strong>20-Legacy-Neural-Network-Background</strong><span>ANN, RNN, LSTM, and older sequence-model reference material grouped cleanly.</span></a>
         </div>
       </article>
     </section>
