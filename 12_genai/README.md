@@ -51,6 +51,11 @@ Open [module_map.md](module_map.md) for the topic-by-topic breakdown, or open [l
 
 - `20-Legacy-Neural-Network-Background`
 
+### Stage 8: Imported Course Packs
+
+- `21-RAG-Mastery`
+- `22-LangGraph-Tutorials`
+
 ## Practical Notes
 
 - Start from the lowest-numbered folder unless you already know the basics.
@@ -58,3 +63,4 @@ Open [module_map.md](module_map.md) for the topic-by-topic breakdown, or open [l
 - Some imported course material still uses nested dataset folders or local asset folders. Those were kept beside the code that depends on them.
 - `15` through `19` are the newer production-oriented additions for adaptation, evals, safety, multimodal work, and stateful agent design.
 - `20-Legacy-Neural-Network-Background` holds older ANN, RNN, and LSTM study material that was sitting in the GenAI area already. It was grouped cleanly, but it is not the main GenAI path.
+- `21` and `22` are imported course packs that were appended without renumbering the existing curriculum, so the original material stays stable.

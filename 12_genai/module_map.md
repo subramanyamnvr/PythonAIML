@@ -76,10 +76,19 @@ This map explains the cleaned GenAI sequence and what each numbered folder is fo
 - `20-Legacy-Neural-Network-Background`  
   Older ANN, RNN, LSTM, and sequence-model reference material that did not belong in the main GenAI path but was worth preserving in one clear place.
 
+## Imported Course Packs
+
+- `21-RAG-Mastery`  
+  Full RAG learning pack with numbered lessons for ingestion, parsing, embeddings, vector stores, chunking, hybrid search, query enhancement, multimodal RAG, agentic RAG, persistence, evaluation, and graph databases.
+
+- `22-LangGraph-Tutorials`  
+  LangGraph tutorial pack covering workflow basics, chatbot patterns, persistence, tools, MCP, RAG, HITL, and subgraph examples.
+
 ## Layout Notes
 
-- The first folder layer is now continuously numbered from `01` to `20`.
+- The first folder layer is now continuously numbered from `01` to `22`.
 - Related loose notebooks and PDFs were moved into topic folders so the root stays readable.
 - Wrapper folders were flattened where they only repeated the folder name without adding structure.
 - Imported mini-project repos remain intact inside the topic folders when they contain their own local assets or app structure.
 - The newer `15` through `19` folders are starter expansion areas for modern production-grade GenAI work.
+- The imported `21` and `22` packs were added as new top-level topics so their internal lesson numbering could stay intact.
