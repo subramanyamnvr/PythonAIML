@@ -1,0 +1,32 @@
+Title: Transformer Variants for Production
+
+We have used the following transformer variants in production deployments:
+
+1. EfficientFormer:
+    - Optimized for mobile inference.
+    - Deployed in multiple mobile and edge environments.
+    - Quantized using ONNX and optimized via TensorRT.
+    - Benchmarked with 1.2ms inference time on A72 CPUs.
+
+2. Longformer:
+    - Applied to long-context document summarization and legal document review.
+    - Token window increased to 8192 with sliding window attention.
+    - Used with chunk-based summarization pipeline.
+    - Attention weights visualized using in-house tools for explainability.
+
+3. Reformer:
+    - Tested for memory efficiency on embedded devices.
+    - LSH attention led to 60% memory reduction.
+    - Integration challenges with standard transformers due to bucket collisions.
+    - Ongoing investigation for training stability and gradient clipping strategies.
+
+4. LLaMA2:
+    - Integrated with proprietary instruction-tuned layer.
+    - Combined with domain-specific knowledge graphs.
+    - Fine-tuned on internal datasets using LoRA adapters.
+    - Deployed via FastAPI with 4-bit quantization for cost efficiency.
+
+5. Mistral-7B:
+    - Used for internal code review and documentation generation.
+    - Outperformed GPT-3.5 on internal benchmarks for structured output tasks.
+    - Served using vLLM with PagedAttention for high throughput.
